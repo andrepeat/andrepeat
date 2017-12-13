@@ -1,0 +1,93 @@
+
+/* Navigation bar */
+.nav-bar {
+    padding-top: 26px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+
+
+/* This will help figure padding/margins around the context, media, et.al block */
+.nav-info {
+    padding-top: 30px; /* Push 30px down from MG */
+}
+
+/* --------------i------- Video related padding --------------------------- */
+
+/* Video */
+#video {
+    padding-bottom: 30px;
+    /* No left or right padding as video is center aligned */
+}
+
+/* Video title */
+.video-text {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    /* No left or right padding as video text is center aligned */
+}
+
+/* -------------------- Project related padding --------------------------- */
+/* Project rows */
+.project__row {
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+}
+
+/* this is the padding of a single project square on projects page */
+.project__container {
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+/* This is the padding between thumbnail and project title */
+.thumbnail-text {
+    padding-top: 10px;
+}
+
+/* Only second project row*/
+div:nth-child(5) p.thumbnail-text {
+    padding-top: 25px;
+}
+
+/* This is the padding between context and media/date/status */
+.context {
+    padding-right: 15px;
+}
+
+
+/* --------------------------- specefic padding --------------------------- */
+
+/* Hacky way to align left borders of all images with "martin grasser" */
+/* you can set left margins for specefic projects below */
+
+.pixel-paintings {
+    padding-left: 0px;
+}
+
+/* -- Air Movie Project --*/
+
+.air-movie #video {
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+.air-movie-helper {
+    padding: 8px 10px;
+}
+
+/* -- Spray Books Project -- */
+
+.spray-books {
+    padding: 0px 10px;
+}
+
+.spray-books-helper  {
+    padding: 0px 10px;
+}
+/* you can add for other projects here in the same way as shown above */

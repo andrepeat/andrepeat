@@ -1,0 +1,299 @@
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen and (min-width: 100px) and (max-width: 480px) {
+    .thumbnail-text {
+        display: none;
+    }
+
+    #video, .image-lead > img {
+        width: 100%;
+    }
+
+    .project__row {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    .video-text {
+        padding-top: 15px;
+        padding-bottom: 77px;
+    }
+
+    .spacer {
+        padding: 58px;
+    }
+
+    .spacer-page {
+        padding: 20px;
+    }
+
+    .spacer-top {
+        padding: 40px;
+    }
+
+    .intro {
+        padding: 0px;
+    }
+
+    footer {
+        font-size: 7px;
+    }
+
+    .nav-bar {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .nav-bar,
+    .nav-info,
+    .info-text {
+        font-size: 12px;
+    }
+
+    .context {
+        padding-bottom: 10px;
+    }
+
+    .spray-books-helper {
+        padding: 0px 15px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    #video, .image-lead > img {
+        width: 450px;
+    }
+
+    .thumbnail-text {
+        font-size: 12px;
+    }
+
+    .air-movie #video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .video-text {
+        padding-top: 15px;
+        padding-bottom: 77px;
+    }
+
+    .spacer {
+        padding: 33px;
+    }
+    .spacer-page {
+        padding: 20px;
+    }
+    .spacer-top {
+        padding: 33px;
+    }
+
+    .nav-bar,
+    .nav-info,
+    .info-text {
+        font-size: 12px;
+    }
+
+    .info-text {
+        padding-left: 30px;
+    }
+
+    .context {
+        padding-bottom: 10px;
+    }
+
+
+    .project__row {
+        padding-top: 36px;
+        padding-bottom: 0px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    .spray-books {
+        padding: 0px 17px;
+    }
+
+    .spray-books-helper #video {
+        margin-top: 0px;
+    }
+}
+
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+    #video, .image-lead > img {
+        width: 896px;
+        height: 504px;
+    }
+
+    .air-movie #video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .spacer {
+        padding: 33px;
+    }
+    .spacer-page {
+        padding: 20px;
+    }
+    .spacer-top {
+        padding: 33px;
+    }
+
+    .intro {
+        padding: 0px;
+    }
+
+    .nav-bar,
+    .nav-info,
+    .info-text {
+        font-size: 12px;
+    }
+
+    .info-text {
+        padding-left: 30px;
+    }
+    .context {
+        padding-bottom: 10px;
+    }
+
+    .project__row {
+        padding-top: 36px;
+        padding-bottom: 0px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    .spray-books-helper #video {
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #video, .image-lead > img {
+        width: 700px;
+    }
+
+    .air-movie #video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .spacer {
+        padding: 50px;
+    }
+
+    .spacer-page {
+        padding: 20px;
+    }
+    .spacer-top {
+        padding: 33px;
+    }
+
+    .info-text {
+        padding-left: 30px;
+    }
+
+    .project__row {
+        padding-top: 36px;
+        padding-bottom: 0px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    .spray-books-helper #video {
+        margin-top: 0px;
+    }
+
+    ..spray-books-helper, .image-lead {
+        padding: 100px 0px;
+    }
+}
+
+@media only screen and (min-width: 1025) and (max-width: 1280px) {
+    #video, .image-lead > img {
+        width: 896px;
+        height: 504px;
+    }
+
+    .air-movie #video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .info-text {
+        padding-left: 30px;
+    }
+
+    .spray-books-helper, .image-lead {
+        padding: 100px 0px;
+    }
+
+}
+
+/* Desktops and laptops ----------- */
+
+@media only screen and (min-width: 1281px) {
+    #video, .image-lead > img {
+        width: 896px;
+    }
+
+    .air-movie #video {
+        width: 100%;
+        height: 100%;
+    }
+
+    .spacer {
+        padding: 50px;
+    }
+    .spacer-page {
+        padding: 20px;
+    }
+
+    .spacer-top {
+        padding: 33px;
+    }
+
+    .project__row {
+        padding-top: 36px;
+        padding-bottom: 0px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    .spray-books-helper, .image-lead {
+        padding: 100px 0px 200px;
+    }
+
+    .spray-books-helper #video {
+        margin-top: 0px;
+    }
+    .air-movie {
+        padding: 0px 100px;
+    }
+
+    .info-text {
+        padding-left: 30px;
+    }
+}
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width: 1900px) {
+    #video, .image-lead > img {
+        width: 1280px;
+        height: 720px;
+    }
+}

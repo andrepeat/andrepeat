@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block title %}Martin Grasser{% endblock %}
+
+{% block content %}
+    <!-- <div class='spacer'> </div> -->
+    <div class='spacer'> </div>
+
+<!--     <div class='row video-container'>
+        <div class='mx-auto'>
+            <a href="/project/air-movie">
+                <video id="video" controls autoplay="autoplay" playsinline webkit-playsinline preload muted="true" loop poster={{url_for('static', filename='videos/poster_image.jpg')}}>
+                    <source src="{{ url_for('static', filename='videos/air-movie.webm') }}" type="video/webm" >
+                    <source src="{{ url_for('static', filename='videos/air-movie.mp4') }}" type="video/mp4" >
+                </video>
+                <img src="{{ url_for('static', filename = 'images/square-paintings/SquarePaintings33.jpg')}}">
+            </a>
+            <div class="video-text text-center"><a href="/project/air-movie">Air Movie, 2017</a></div>
+        </div>
+    </div>
+ -->
+    {% for row in content %}
+        <div class='row project__row'>
+            {% for item in row %}
+                <div class='col-md-3 col-sm-3 col-6 col-lg-3 project__container'>
+                    <a href=" {{ url_for('project', slug=item.slug) }}">
+                        <img class="card-img-bottom align-bottom thumbnail" src="{{ url_for('static', filename='images/' + item.slug + '/' + item.thumbnail ) }}" />
+                    </a>
+                    <p class='thumbnail-text text-center'>
+                        <a href="{{ url_for('project', slug=item.slug) }}">
+                            {{ item.title }} <br>
+                        </a>
+                    </p>
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+
+    <script type="text/javascript">
+    window.onload = function() {
+
+                // get the video
+        var video = document.querySelector('video');
+        // use the whole window and a *named function*
+        window.addEventListener('touchstart', function videoStart() {
+          video.play();
+          console.log('first touch');
+          // remove from the window and call the function we are removing
+          this.removeEventListener('touchstart', videoStart);
+        });
+
+        const _rows = document.getElementsByClassName('intro-body');
+        for (row of _rows) {
+            var all_p = row.querySelectorAll('p');
+            var maxx = -1;
+            for (p of all_p) {
+                var height = parseInt(getComputedStyle(p).height);
+                if (height > maxx) {
+                    maxx = height;
+                }
+            }
+            for (p of all_p) {
+                p.style.height = maxx + 'px';
+            }
+        }
+    }
+</script>
+
+{% endblock %}

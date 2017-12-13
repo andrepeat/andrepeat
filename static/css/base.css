@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'bt_mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/bt_webfonts/bt_mono_regular-webfont.eot");
+    src: url("../fonts/bt_webfonts/bt_mono_regular-webfont.woff2") format("woff2"), url("../fonts/bt_webfonts/bt_mono_regular-webfont.woff") format("woff"), url("../fonts/bt_webfonts/bt_mono_regular-webfont.ttf") format("truetype"), url("../fonts/bt_webfonts/bt_mono_regular-webfont.svg#bt_mono_reqular-webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'bt_mono';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/bt_webfonts/bt_mono_medium-webfont.eot");
+    src: url("../fonts/bt_webfonts/bt_mono_medium-webfont.woff2") format("woff2"), url("../fonts/bt_webfonts/bt_mono_medium-webfont.woff") format("woff"), url("../fonts/bt_webfonts/bt_mono_medium-webfont.ttf") format("truetype"), url("../fonts/bt_webfonts/bt_mono_medium-webfont.svg#bt_mono_medium-webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'bt_mono';
+    font-style: normal;
+    font-weight: 600;
+    src: url("../fonts/bt_webfonts/bt_mono_bold-webfont.eot");
+    src: url("../fonts/bt_webfonts/bt_mono_bold-webfont.woff2") format("woff2"), url("../fonts/bt_webfonts/bt_mono_bold-webfont.woff") format("woff"), url("../fonts/bt_webfonts/bt_mono_bold-webfont.ttf") format("truetype"), url("../fonts/bt_webfonts/bt_mono_bold-webfont.svg#bt_mono_bold-webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'bt_mono';
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/bt_webfonts/bt_mono_heavy-webfont.eot");
+    src: url("../fonts/bt_webfonts/bt_mono_heavy-webfont.woff2") format("woff2"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.woff") format("woff"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.ttf") format("truetype"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.svg#bt_mono_heavy-webfont") format("svg")
+}
+
+
+img {
+    max-width: 100%;
+}
+
+html,
+body {
+    font-family: bt_mono;
+    font-size: 14px;
+    color: #C0C0C0;
+    height: 100%;
+    width: 100%;
+}
+
+.container-fluid {
+    /*min-height: calc(90% - 140px);*/
+    min-height: 100%;
+}
+
+.nav-bar {
+    margin-bottom: 0px;
+    position: fixed;
+    display: flex;
+    top: 0;
+    width: 100%;
+    z-index: 111;
+    background: #ffffff;
+}
+
+.spacer {
+    padding: 100px;
+}
+
+.intro,
+.intro-body {
+    padding: 0px 30px;
+}
+
+.headings {
+    color: #808080;
+}
+
+.headings-content {
+    color: #C0C0C0;
+}
+
+.context {
+    padding-right: 15px;
+}
+
+body a:link,
+body a:visited,
+body a:hover,
+body a:active {
+    text-decoration: none;
+    color: #808080;
+}
+
+.nav-bar a:link,
+.nav-bar a:visited,
+.nav-bar a:hover,
+.nav-bar a:active {
+    text-decoration: none;
+    color: #808080;
+}
+
+.project__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.project__container>a {
+    display: flex;
+    flex: 1;
+}
+
+.project__container img {
+    align-self: flex-end;
+}
+
+footer {
+    padding: 40px 20px 10px;
+}
+
+/* Project specific */
+
+.project__image {
+    padding: 30px 0px;
+}
+
+
+/* -- Info Page*/
+
+.info-text {
+    margin-top: 140px;
+    color: #808080;
+}
+
+.info-text > div {
+    padding-right: 66px;
+}
+
+.info-text > a {
+    border-bottom: 0.2px solid #808080;
+}
+
+.text-border > a {
+    border-bottom: 0.5px solid #808080;
+}
+
+/* Info text */
+/*.info-text a:nth-of-type(1) {*/
+    /*text-decoration: underline;*/
+/*}*/
+
+.image-lead {
+    text-align: center;
+}
+
+.image-lead > img {
+    padding-top: 0px;
+}

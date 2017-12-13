@@ -1,0 +1,271 @@
+[
+{
+    "slug": "air-paintings",
+    "title": "Air Paintings",
+    "thumbnail": "Air0.jpg",
+    "category": [
+        "art", "book"
+    ],
+    "media": "Digital",
+    "date": "2017",
+    "context": "Air is the space between the camera and the object being photographed. In this instance represented by light and color.",
+    "materials": "Print on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-4", "images": ["Air_0.jpg", "Air_25.jpg", "Air_29.jpg"]},
+        {"col": "col-md-4", "images": ["Air_27.jpg", "Air_26.jpg", "Air_30.jpg"]},
+
+        {"col": "col-md-4", "images": ["Air_23.jpg", "Air_24.jpg", "Air_22.jpg"]},
+        {"col": "col-md-4", "images": ["Air_01.jpg", "Air_31.jpg", "Air_32.jpg"]},
+
+        {"col": "col-md-4", "images": ["Air_17.jpg", "Air_19.jpg", "Air_20.jpg"]},
+        {"col": "col-md-4", "images": ["Air_16.jpg", "Air_18.jpg"]},
+
+        {"col": "col-md-4", "images": ["Air_03.jpg", "Air_04.jpg", "Air_05.jpg"]},
+        {"col": "col-md-4", "images": ["Air_08.jpg", "Air_33.jpg", "Air_34.jpg"]},
+
+        {"col": "col-md-4", "images": ["Air_06.jpg", "Air_35.jpg", "Air_36.jpg"]},
+        {"col": "col-md-4", "images": ["Air_44.jpg"]},
+        {"col": "col-md-4", "images": ["Air_43.jpg"]},
+
+        {"col": "col-md-4", "images": ["Air_37.jpg", "Air_41.jpg", "Air_38.jpg"]},
+        {"col": "col-md-4", "images": ["Air_39.jpg", "Air_42.jpg"]}
+
+    ]
+},
+
+{
+    "slug": "square-paintings",
+    "title": "Square Paintings",
+    "thumbnail": "SquarePaintings.jpg",
+    "category": [
+        "art"
+    ],
+    "media": "Digital",
+    "date": "2015",
+    "context": "",
+    "materials": "Print on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-12 image-lead", "images": ["SquarePaintings33.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings74.jpg", "SquarePaintings77.jpg", "SquarePaintings70.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings001.jpg", "SquarePaintings002.jpg", "SquarePaintings0003.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings101.jpg", "SquarePaintings106.jpg", "SquarePaintings01.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings108.jpg", "SquarePaintings107.jpg", "SquarePaintings41.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings105.jpg", "SquarePaintings43.jpg", "SquarePaintings44.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings40.jpg", "SquarePaintings45.jpg", "SquarePaintings47.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings71.jpg", "SquarePaintings64.jpg", "SquarePaintings61.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings03.jpg", "SquarePaintings65.jpg", "SquarePaintings63.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings23.jpg", "SquarePaintings14.jpg", "SquarePaintings09.jpg"]},
+
+
+        {"col": "col-md-4", "images": ["SquarePaintings16.jpg", "SquarePaintings62.jpg", "SquarePaintings07.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings19.jpg", "SquarePaintings29.jpg", "SquarePaintings30.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings97.jpg", "SquarePaintings68.jpg", "SquarePaintings69.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings39.jpg", "SquarePaintings42.jpg", "SquarePaintings93.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings49.jpg", "SquarePaintings67.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings22.jpg", "SquarePaintings17.jpg", "SquarePaintings18.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings005.jpg", "SquarePaintings006.jpg", "SquarePaintings08.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings007.jpg", "SquarePaintings008.jpg", "SquarePaintings26.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings28.jpg", "SquarePaintings25.jpg", "SquarePaintings73.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings104.jpg", "SquarePaintings100.jpg", "SquarePaintings109.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings98.jpg", "SquarePaintings02.jpg", "SquarePaintings99.jpg"]},
+        {"col": "col-md-4", "images": ["SquarePaintings21.jpg", "SquarePaintings003.jpg", "SquarePaintings004.jpg"]},
+
+        {"col": "col-md-4", "images": ["SquarePaintings82.jpg", "SquarePaintings66.jpg"]}
+    ]
+},
+
+{
+    "slug": "newspaper",
+    "title": "Newspaper",
+    "thumbnail": "NewsStructures_0.jpg",
+    "category": [
+        "art"
+    ],
+    "media": "Digital",
+    "date": "2014",
+    "context": "",
+    "materials": "Print on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-12 image-lead", "images": ["NewsStructures_00.jpg"]},
+        {"col": "col-md-6", "images": ["NewsStructures_06.jpg", "NewsStructures_02.jpg"]},
+        {"col": "col-md-6", "images": ["Newspaper02.jpg", "NewsStructures_03.jpg"]},
+        {"col": "col-md-6", "images": ["NewsStructures_04.jpg", "NewsStructures_05.jpg"]}
+    ]
+},
+
+{
+    "slug": "spray-paintings",
+    "title": "Spray Paintings",
+    "thumbnail": "Spray_Paintings0.jpg",
+    "category": [
+        "art"
+    ],
+    "media": "Analog",
+    "date": "2010",
+    "context": "",
+    "materials": "Spray paint on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-4", "images": ["Spray_Paintings_0.jpg", "Spray_Paintings_00.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_01.jpg", "Spray_Paintings_03.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_34.jpg", "Spray_Paintings_37.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_29.jpg", "Spray_Paintings_32.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_35.jpg", "Spray_Paintings_27.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_16.jpg", "Spray_Paintings_38.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_18.jpg", "Spray_Paintings_23.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_25.jpg", "Spray_Paintings_26.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_21.jpg", "Spray_Paintings_17.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_06.jpg", "Spray_Paintings_09.jpg"]},
+
+        {"col": "col-md-4", "images": ["Spray_Paintings_50.jpg", "Spray_Paintings_51.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_47.jpg", "Spray_Paintings_45.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_44.jpg", "Spray_Paintings_49.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_42.jpg", "Spray_Paintings_46.jpg"]},
+        {"col": "col-md-4", "images": ["Spray_Paintings_41.jpg", "Spray_Paintings_48.jpg"]}
+
+    ]
+},
+
+{
+    "slug": "spray-books",
+    "title": "Spray Books",
+    "thumbnail": "Spray_Books_00.jpg",
+    "category": [
+        "art", "books", "video"
+    ],
+    "media": "Analog, digital",
+    "date": "2015",
+    "context": "Collaboration with Vina Rostomyan.",
+    "materials": "Spray paint on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-12 spray-books-helper", "videos": ["spray-books.mp4"]},
+
+        {"col": "col-md-4", "images": ["D_FC.jpg", "D_1.jpg", "D_2.jpg"]},
+        {"col": "col-md-4", "images": ["D_3.jpg", "D_4.jpg", "D_5.jpg"]},
+        {"col": "col-md-4", "images": ["D_6.jpg", "D_7.jpg", "D_8.jpg"]},
+        {"col": "col-md-4", "images": ["D_9.jpg", "D_10.jpg", "D_11.jpg"]},
+        {"col": "col-md-4", "images": ["D_12.jpg", "D_13.jpg", "D_14.jpg"]},
+        {"col": "col-md-4", "images": ["D_15.jpg", "D_16.jpg", "D_17.jpg"]},
+        {"col": "col-md-4", "images": ["D_18.jpg", "D_BC.jpg"]},
+
+        {"col": "col-md-4", "images": ["Book2_23.jpg", "Book2_22.jpg", "Book2_21.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_20.jpg", "Book2_19.jpg", "Book2_18.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_17.jpg", "Book2_16.jpg", "Book2_15.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_14.jpg", "Book2_13.jpg", "Book2_12.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_11.jpg", "Book2_10.jpg", "Book2_09.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_08.jpg", "Book2_07.jpg", "Book2_06.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_05.jpg", "Book2_04.jpg", "Book2_03.jpg"]},
+        {"col": "col-md-4", "images": ["Book2_02.jpg", "Book2_01.jpg", "Book2_00.jpg"]},
+
+        {"col": "col-md-4", "images": ["Book-3_00.jpg", "Book-3_01.jpg", "Book-3_02.jpg"]},
+        {"col": "col-md-4", "images": ["Book-3_03.jpg", "Book-3_04.jpg", "Book-3_05.jpg"]},
+        {"col": "col-md-4", "images": ["Book-3_06.jpg", "Book-3_07.jpg", "Book-3_08.jpg"]},
+        {"col": "col-md-4", "images": ["Book-3_09.jpg", "Book-3_10.jpg", "Book-3_11.jpg"]},
+        {"col": "col-md-4", "images": ["Book-3_12.jpg", "Book-3_13.jpg", "Book-3_14.jpg"]},
+        {"col": "col-md-4", "images": ["Book-3_15.jpg"]},
+
+        {"col": "col-md-4", "images": ["Book-4_01.jpg", "Book-4_02.jpg", "Book-4_03.jpg"]},
+        {"col": "col-md-4", "images": ["Book-4_04.jpg", "Book-4_05.jpg", "Book-4_06.jpg"]},
+        {"col": "col-md-4", "images": ["Book-4_07.jpg", "Book-4_08.jpg", "Book-4_09.jpg"]},
+        {"col": "col-md-4", "images": ["Book-4_10.jpg", "Book-4_11.jpg", "Book-4_12.jpg"]},
+        {"col": "col-md-4", "images": ["Book-4_13.jpg", "Book-4_14.jpg", "Book-4_15.jpg"]},
+        {"col": "col-md-4", "images": ["Book-4_16.jpg"]}
+    ]
+},
+
+{
+    "slug": "flat-structures",
+    "title": "Flat Structures",
+    "thumbnail": "Flat_structures00.jpg",
+    "category": [
+        "art"
+    ],
+    "media": "Analog, digital",
+    "date": "2010",
+    "context": "",
+    "materials": "Print on paper",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+
+        {"col": "col-md-6", "images": ["Flat_structures01.jpg", "Flat_structures04.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures15.jpg", "Flat_structures17.jpg"]},
+
+        {"col": "col-md-6", "images": ["Flat_structures22.jpg", "Flat_structures23.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures37.jpg", "Flat_structures33.jpg"]},
+
+        {"col": "col-md-6", "images": ["Flat_structures42.jpg", "Flat_structures39.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures27.jpg", "Flat_structures14.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures18.jpg", "Flat_structures13.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures19.jpg", "Flat_structures38.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures24.jpg", "Flat_structures25.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures10.jpg", "Flat_structures26.jpg"]},
+
+        {"col": "col-md-6", "images": ["Flat_structures20.jpg", "Flat_structures29.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures28.jpg", "Flat_structures36.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures32.jpg", "Flat_structures34.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures35.jpg"]},
+
+        {"col": "col-md-6", "images": ["Flat_structures43.jpg", "Flat_structures30.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures31.jpg", "Flat_structures16.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures21.jpg", "Flat_structures40.jpg"]},
+        {"col": "col-md-6", "images": ["Flat_structures41.jpg"]}
+
+
+    ]
+},
+
+{
+    "slug": "air-movie",
+    "title": "Air Movie",
+    "thumbnail": "Air_Movie.jpg",
+    "category": [
+    "art"
+    ],
+    "media": "Digital, video",
+    "date": "2017",
+    "context": "",
+    "materials": "mp3, mp4",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-6 air-movie-helper", "videos": ["air-movie-1.mp4", "air-movie-2.mp4"]},
+        {"col": "col-md-6 air-movie-helper", "videos": ["air-movie-3.mp4", "air-movie-4.mp4"]}
+    ]
+},
+
+{
+    "slug": "book-sculptures",
+    "title": "Book Sculptures",
+    "thumbnail": "Book_sculptures.jpg",
+    "category": [
+        "art"
+    ],
+    "media": "Analog, sculptures",
+    "date": "2009",
+    "context": "Collaboration with Ji Yun Ha.",
+    "materials": "Newsprint",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-8", "images": ["Book_Sculpture_00.jpg"]},
+        {"col": "col-md-8", "images": ["Book_Sculpture_01.jpg"]},
+        {"col": "col-md-8", "images": ["Book_Sculpture_02.jpg"]},
+        {"col": "col-md-8", "images": ["Book_Sculpture_03.jpg"]},
+        {"col": "col-md-8", "images": ["Book_Sculpture_05.jpg"]},
+        {"col": "col-md-8", "images": ["Book_Sculpture_04.jpg"]}
+    ]
+}
+]
