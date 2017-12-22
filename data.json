@@ -1,109 +1,85 @@
 [
 {
-    "slug": "air-paintings",
-    "title": "Air Paintings",
-    "thumbnail": "Air0.jpg",
+    "slug": "twitter",
+    "title": "Twitter",
+    "thumbnail": "Twitter_logo_circles.jpg",
     "category": [
-        "art", "book"
+        "design", "logo"
+    ],
+    "media": "Digital",
+    "date": "2012",
+    "context": "Twitter logo design.",
+    "materials": "",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+        {"col": "col-md-8", "images": ["Twitter_logo_circles.jpg"]},
+        {"col": "col-md-8", "images": ["Twitter_logo_process.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_00.jpg", "Twitter_logo_process_01.jpg", "Twitter_logo_process_02.jpg", "Twitter_logo_process_03.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_04.jpg", "Twitter_logo_process_05.jpg", "Twitter_logo_process_06.jpg", "Twitter_logo_process_07.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_08.jpg", "Twitter_logo_process_09.jpg", "Twitter_logo_process_10.jpg", "Twitter_logo_process_11.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_12.jpg", "Twitter_logo_process_13.jpg", "Twitter_logo_process_14.jpg", "Twitter_logo_process_15.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_16.jpg", "Twitter_logo_process_17.jpg", "Twitter_logo_process_18.jpg", "Twitter_logo_process_19.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_20.jpg", "Twitter_logo_process_21.jpg", "Twitter_logo_process_22.jpg", "Twitter_logo_process_23.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_24.jpg", "Twitter_logo_process_25.jpg", "Twitter_logo_process_26.jpg", "Twitter_logo_process_27.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_28.jpg", "Twitter_logo_process_29.jpg", "Twitter_logo_process_30.jpg", "Twitter_logo_process_31.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_32.jpg", "Twitter_logo_process_33.jpg", "Twitter_logo_process_34.jpg", "Twitter_logo_process_35.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_36.jpg", "Twitter_logo_process_37.jpg", "Twitter_logo_process_38.jpg", "Twitter_logo_process_39.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_40.jpg", "Twitter_logo_process_41.jpg", "Twitter_logo_process_42.jpg", "Twitter_logo_process_43.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_44.jpg", "Twitter_logo_process_45.jpg", "Twitter_logo_process_46.jpg", "Twitter_logo_process_47.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_48.jpg", "Twitter_logo_process_49.jpg", "Twitter_logo_process_50.jpg", "Twitter_logo_process_51.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_52.jpg", "Twitter_logo_process_53.jpg", "Twitter_logo_process_54.jpg", "Twitter_logo_process_55.jpg"]},
+        {"col": "col-md-2", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]}
+
+        
+       
+
+    ]
+},
+
+{
+    "slug": "nike",
+    "title": "Nike | Welcome to season 15",
+    "thumbnail": "Nike_Labron.jpg",
+    "category": [
+        "art"
     ],
     "media": "Digital",
     "date": "2017",
-    "context": "Air is the space between the camera and the object being photographed. In this instance represented by light and color.",
-    "materials": "Print on paper",
-    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-4", "images": ["Air_0.jpg", "Air_25.jpg", "Air_29.jpg"]},
-        {"col": "col-md-4", "images": ["Air_27.jpg", "Air_26.jpg", "Air_30.jpg"]},
-
-        {"col": "col-md-4", "images": ["Air_23.jpg", "Air_24.jpg", "Air_22.jpg"]},
-        {"col": "col-md-4", "images": ["Air_01.jpg", "Air_31.jpg", "Air_32.jpg"]},
-
-        {"col": "col-md-4", "images": ["Air_17.jpg", "Air_19.jpg", "Air_20.jpg"]},
-        {"col": "col-md-4", "images": ["Air_16.jpg", "Air_18.jpg"]},
-
-        {"col": "col-md-4", "images": ["Air_03.jpg", "Air_04.jpg", "Air_05.jpg"]},
-        {"col": "col-md-4", "images": ["Air_08.jpg", "Air_33.jpg", "Air_34.jpg"]},
-
-        {"col": "col-md-4", "images": ["Air_06.jpg", "Air_35.jpg", "Air_36.jpg"]},
-        {"col": "col-md-4", "images": ["Air_44.jpg"]},
-        {"col": "col-md-4", "images": ["Air_43.jpg"]},
-
-        {"col": "col-md-4", "images": ["Air_37.jpg", "Air_41.jpg", "Air_38.jpg"]},
-        {"col": "col-md-4", "images": ["Air_39.jpg", "Air_42.jpg"]}
-
-    ]
-},
-
-{
-    "slug": "square-paintings",
-    "title": "Square Paintings",
-    "thumbnail": "SquarePaintings.jpg",
-    "category": [
-        "art"
-    ],
-    "media": "Digital",
-    "date": "2015",
     "context": "",
-    "materials": "Print on paper",
+    "materials": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        {"col": "col-md-12 image-lead", "images": ["SquarePaintings33.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings74.jpg", "SquarePaintings77.jpg", "SquarePaintings70.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings001.jpg", "SquarePaintings002.jpg", "SquarePaintings0003.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings101.jpg", "SquarePaintings106.jpg", "SquarePaintings01.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings108.jpg", "SquarePaintings107.jpg", "SquarePaintings41.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings105.jpg", "SquarePaintings43.jpg", "SquarePaintings44.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings40.jpg", "SquarePaintings45.jpg", "SquarePaintings47.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings71.jpg", "SquarePaintings64.jpg", "SquarePaintings61.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings03.jpg", "SquarePaintings65.jpg", "SquarePaintings63.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings23.jpg", "SquarePaintings14.jpg", "SquarePaintings09.jpg"]},
-
-
-        {"col": "col-md-4", "images": ["SquarePaintings16.jpg", "SquarePaintings62.jpg", "SquarePaintings07.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings19.jpg", "SquarePaintings29.jpg", "SquarePaintings30.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings97.jpg", "SquarePaintings68.jpg", "SquarePaintings69.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings39.jpg", "SquarePaintings42.jpg", "SquarePaintings93.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings49.jpg", "SquarePaintings67.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings22.jpg", "SquarePaintings17.jpg", "SquarePaintings18.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings005.jpg", "SquarePaintings006.jpg", "SquarePaintings08.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings007.jpg", "SquarePaintings008.jpg", "SquarePaintings26.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings28.jpg", "SquarePaintings25.jpg", "SquarePaintings73.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings104.jpg", "SquarePaintings100.jpg", "SquarePaintings109.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings98.jpg", "SquarePaintings02.jpg", "SquarePaintings99.jpg"]},
-        {"col": "col-md-4", "images": ["SquarePaintings21.jpg", "SquarePaintings003.jpg", "SquarePaintings004.jpg"]},
-
-        {"col": "col-md-4", "images": ["SquarePaintings82.jpg", "SquarePaintings66.jpg"]}
+        
+        {"col": "col-md-12 spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
     ]
 },
 
 {
-    "slug": "newspaper",
-    "title": "Newspaper",
-    "thumbnail": "NewsStructures_0.jpg",
+    "slug": "braintree",
+    "title": "Braintree",
+    "thumbnail": "Braintree_logo.jpg",
     "category": [
-        "art"
+        "design"
     ],
     "media": "Digital",
     "date": "2014",
     "context": "",
-    "materials": "Print on paper",
+    "materials": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        {"col": "col-md-12 image-lead", "images": ["NewsStructures_00.jpg"]},
-        {"col": "col-md-6", "images": ["NewsStructures_06.jpg", "NewsStructures_02.jpg"]},
-        {"col": "col-md-6", "images": ["Newspaper02.jpg", "NewsStructures_03.jpg"]},
-        {"col": "col-md-6", "images": ["NewsStructures_04.jpg", "NewsStructures_05.jpg"]}
+        {"col": "col-md-12", "images": ["Braintree_logo.jpg"]},
+        {"col": "col-md-12", "images": ["Braintree_BT_typeface-01.jpg"]},
+        {"col": "col-md-4", "images": ["Braintree_BT_typeface-02.jpg", "Braintree_BT_typeface-03.jpg", "Braintree_BT_typeface-04.jpg"]},
+        {"col": "col-md-12", "images": ["Braintree_city.jpg"]},
+        {"col": "col-md-12", "images": ["Braintree_beer.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_001.jpg", "Braintree_002.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_003.jpg", "Braintree_004.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_005.jpg", "Braintree_006.jpg"]},
+        {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
+        {"col": "col-md-4", "images": ["Braintree_008.jpg", "Braintree_009.jpg", "Braintree_010.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]}
+
+
     ]
 },
 
