@@ -153,50 +153,9 @@
 },
 
 {
-    "slug": "flat-structures",
-    "title": "Flat Structures",
-    "thumbnail": "Flat_structures00.jpg",
-    "category": [
-        "art"
-    ],
-    "media": "Analog, digital",
-    "date": "2010",
-    "context": "",
-    "materials": "Print on paper",
-    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-
-        {"col": "col-md-6", "images": ["Flat_structures01.jpg", "Flat_structures04.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures15.jpg", "Flat_structures17.jpg"]},
-
-        {"col": "col-md-6", "images": ["Flat_structures22.jpg", "Flat_structures23.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures37.jpg", "Flat_structures33.jpg"]},
-
-        {"col": "col-md-6", "images": ["Flat_structures42.jpg", "Flat_structures39.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures27.jpg", "Flat_structures14.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures18.jpg", "Flat_structures13.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures19.jpg", "Flat_structures38.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures24.jpg", "Flat_structures25.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures10.jpg", "Flat_structures26.jpg"]},
-
-        {"col": "col-md-6", "images": ["Flat_structures20.jpg", "Flat_structures29.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures28.jpg", "Flat_structures36.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures32.jpg", "Flat_structures34.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures35.jpg"]},
-
-        {"col": "col-md-6", "images": ["Flat_structures43.jpg", "Flat_structures30.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures31.jpg", "Flat_structures16.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures21.jpg", "Flat_structures40.jpg"]},
-        {"col": "col-md-6", "images": ["Flat_structures41.jpg"]}
-
-
-    ]
-},
-
-{
-    "slug": "air-movie",
-    "title": "Air Movie",
-    "thumbnail": "Air_Movie.jpg",
+    "slug": "polyera",
+    "title": "Polyera",
+    "thumbnail": "polyera.jpg",
     "category": [
     "art"
     ],
@@ -206,15 +165,48 @@
     "materials": "mp3, mp4",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        {"col": "col-md-6 air-movie-helper", "videos": ["air-movie-1.mp4", "air-movie-2.mp4"]},
-        {"col": "col-md-6 air-movie-helper", "videos": ["air-movie-3.mp4", "air-movie-4.mp4"]}
+        {"col": "col-md-12", "images": ["polyera_00.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_01.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_02.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_03.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_04.jpg"]}
+
     ]
 },
 
 {
-    "slug": "book-sculptures",
-    "title": "Book Sculptures",
-    "thumbnail": "Book_sculptures.jpg",
+    "slug": "rdio",
+    "title": "RDIO",
+    "thumbnail": "RDIO.jpg",
+    "category": [
+        "design"
+    ],
+    "media": "Digital",
+    "date": "2012",
+    "context": "",
+    "materials": "",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+
+        {"col": "col-md-12", "images": ["RDIO.jpg"]},
+        {"col": "col-md-6", "images": ["RDIO_01.jpg", "RDIO_02.jpg"]},
+        {"col": "col-md-6", "images": ["RDIO_03.jpg", "RDIO_04.jpg"]},
+        {"col": "col-md-6", "images": ["RDIO_06.jpg", "RDIO_07.jpg"]},
+        {"col": "col-md-6", "images": ["RDIO_08.jpg", "RDIO_09.jpg"]},
+
+        {"col": "col-md-12", "images": ["RDIO_10.jpg"]},
+        {"col": "col-md-6", "images": ["RDIO_11.jpg", "RDIO_12.jpg"]}
+
+
+    ]
+},
+
+
+
+{
+    "slug": "jawbone",
+    "title": "Jawbone",
+    "thumbnail": "Jawbone.jpg",
     "category": [
         "art"
     ],
