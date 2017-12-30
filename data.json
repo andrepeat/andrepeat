@@ -134,21 +134,31 @@
         {"col": "col-md-6", "images": ["Anki_05.jpg", "Anki_06.jpg"]},
         {"col": "col-md-12", "images": ["Anki_04.jpg"]},
         {"col": "col-md-6", "images": ["Anki_07.jpg", "Anki_08.jpg"]},
+        {"col": "col-md-12", "images": ["Anki_21.jpg"]},
         {"col": "col-md-12", "images": ["Anki_09.jpg"]},
+
         {"col": "col-md-6", "images": ["Anki_10.jpg", "Anki_11.jpg"]},
+
+
+        {"col": "col-md-12", "images": ["Anki_27.jpg"]},
+        {"col": "col-md-12", "images": ["Anki_29.jpg"]},
+        {"col": "col-md-12", "images": ["Anki_30.jpg"]},
+        {"col": "col-md-6", "images": ["Anki_31.jpg", "Anki_32.jpg"]},
+
 
 
         {"col": "col-md-12 spray-books-helper", "videos": ["anki_drive_logo.mp4"]},
         {"col": "col-md-6", "images": ["Anki_12.jpg", "Anki_13.jpg"]},
         {"col": "col-md-6", "images": ["Anki_15.jpg", "Anki_16.jpg"]},
+        {"col": "col-md-6", "images": ["Anki_24.jpg", "Anki_25.jpg"]},
+
+        {"col": "col-md-6", "images": ["Anki_22.jpg", "Anki_26.jpg"]},
 
         {"col": "col-md-6", "images": ["Anki_18.jpg", "Anki_17.jpg"]},
-        {"col": "col-md-6", "images": ["Anki_19.jpg", "Anki_20.jpg"]},
+        {"col": "col-md-6", "images": ["Anki_19.jpg", "Anki_20.jpg"]}
         
         
-
-        
-        {"col": "col-md-4", "images": ["Book-4_16.jpg"]}
+       
     ]
 },
 
@@ -176,7 +186,7 @@
 
 {
     "slug": "rdio",
-    "title": "RDIO",
+    "title": "rdio",
     "thumbnail": "RDIO.jpg",
     "category": [
         "design"
@@ -201,6 +211,38 @@
     ]
 },
 
+{
+    "slug": "opticon",
+    "title": "Opticon",
+    "thumbnail": "Opticon_00.jpg",
+    "category": [
+        "design"
+    ],
+    "media": "Digital",
+    "date": "2016",
+    "context": "",
+    "materials": "",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+
+        {"col": "col-md-12", "images": ["Opticon_01.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_00.jpg"]},
+
+        {"col": "col-md-12", "images": ["Opticon_13.gif"]},
+
+        {"col": "col-md-12", "images": ["Opticon_02.jpg"]},
+
+        {"col": "col-md-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
+        {"col": "col-md-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
+       
+      
+
+
+    ]
+},
 
 
 {
