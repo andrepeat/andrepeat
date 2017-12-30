@@ -30,8 +30,8 @@
         {"col": "col-md-3", "images": ["Twitter_logo_process_52.jpg", "Twitter_logo_process_53.jpg", "Twitter_logo_process_54.jpg", "Twitter_logo_process_55.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]}
 
-        
-       
+
+
 
     ]
 },
@@ -49,7 +49,7 @@
     "materials": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        
+
         {"col": "col-md-12 spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
     ]
 },
@@ -98,15 +98,15 @@
     "content":[
         {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
         {"col": "col-md-12", "images": ["Harborside_logo.jpg"]},
-        
+
         {"col": "col-md-12", "images": ["Harborside_02.jpg"]},
         {"col": "col-md-12", "images": ["Harborside_03.jpg"]},
-        
+
         {"col": "col-md-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
         {"col": "col-md-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]}
-        
 
-        
+
+
 
     ]
 },
@@ -130,7 +130,7 @@
 
 
 
-        {"col": "col-md-6", "images": ["Anki_01.jpg", "Anki_02.jpg"]}, 
+        {"col": "col-md-6", "images": ["Anki_01.jpg", "Anki_02.jpg"]},
         {"col": "col-md-6", "images": ["Anki_05.jpg", "Anki_06.jpg"]},
         {"col": "col-md-12", "images": ["Anki_04.jpg"]},
         {"col": "col-md-6", "images": ["Anki_07.jpg", "Anki_08.jpg"]},
@@ -156,9 +156,9 @@
 
         {"col": "col-md-6", "images": ["Anki_18.jpg", "Anki_17.jpg"]},
         {"col": "col-md-6", "images": ["Anki_19.jpg", "Anki_20.jpg"]}
-        
-        
-       
+
+
+
     ]
 },
 
@@ -237,33 +237,10 @@
         {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
-       
-      
 
 
-    ]
-},
 
 
-{
-    "slug": "jawbone",
-    "title": "Jawbone",
-    "thumbnail": "Jawbone.jpg",
-    "category": [
-        "art"
-    ],
-    "media": "Analog, sculptures",
-    "date": "2009",
-    "context": "Collaboration with Ji Yun Ha.",
-    "materials": "Newsprint",
-    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-8", "images": ["Book_Sculpture_00.jpg"]},
-        {"col": "col-md-8", "images": ["Book_Sculpture_01.jpg"]},
-        {"col": "col-md-8", "images": ["Book_Sculpture_02.jpg"]},
-        {"col": "col-md-8", "images": ["Book_Sculpture_03.jpg"]},
-        {"col": "col-md-8", "images": ["Book_Sculpture_05.jpg"]},
-        {"col": "col-md-8", "images": ["Book_Sculpture_04.jpg"]}
     ]
 }
 ]
