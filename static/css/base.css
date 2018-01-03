@@ -152,3 +152,7 @@ footer {
 .image-lead > img {
     padding-top: 0px;
 }
+
+.bt-helper > #video {
+    width: 100%;
+}
