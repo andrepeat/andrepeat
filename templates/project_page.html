@@ -60,5 +60,14 @@
     <div class='spacer-page'> </div>
     <div class='spacer-page'> </div>
 
+    <script type="text/javascript">
+        window.onload = function() {
+            // toggle nike video's
+            video = document.querySelector('.unmuted-video > #video');
+            if (video.muted) { video.muted = false; video.controls = true;}
+            else { video.muted = true; video.controls = false;}
+        }
+    </script>
+
 {% endblock %}
 
