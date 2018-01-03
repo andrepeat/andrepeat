@@ -108,8 +108,8 @@
 
 
 
-        {"col": "col-md-4", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
-        {"col": "col-md-4", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
+        {"col": "col-md-4 bt-helper", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
+        {"col": "col-md-4 bt-helper", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
 
 
 
@@ -134,7 +134,7 @@
         {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
         {"col": "col-md-12", "images": ["Harborside_logo.jpg"]},
 
-        
+
         {"col": "col-md-12", "images": ["Harborside_03.jpg"]},
 
         {"col": "col-md-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
@@ -179,7 +179,7 @@
         {"col": "col-md-12", "images": ["Anki_27.jpg"]},
         {"col": "col-md-12", "images": ["Anki_29.jpg"]},
         {"col": "col-md-12", "images": ["Anki_30.jpg"]},
-        
+
 
 
 
