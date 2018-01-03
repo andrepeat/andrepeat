@@ -63,7 +63,7 @@
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
 
-        {"col": "col-md-12 spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
+        {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
     ]
 },
 
@@ -88,29 +88,29 @@
         {"col": "col-md-6", "images": ["Braintree_001.jpg", "Braintree_002.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_003.jpg", "Braintree_004.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_005.jpg", "Braintree_006.jpg"]},
-        
+
         {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
 
         {"col": "col-md-6", "images": ["Braintree_013.jpg", "Braintree_015.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_022.jpg", "Braintree_017.jpg"]},
-        {"col": "col-md-6", "images": ["Braintree_014.jpg", "Braintree_020.jpg"]}, 
-        {"col": "col-md-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg"]}, 
-        {"col": "col-md-6", "images": ["Braintree_029.jpg", "Braintree_028.jpg"]}, 
+        {"col": "col-md-6", "images": ["Braintree_014.jpg", "Braintree_020.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_029.jpg", "Braintree_028.jpg"]},
 
-        
+
 
         {"col": "col-md-4", "images": ["Braintree_009.jpg", "Braintree_031.jpg", "Braintree_032.jpg"]},
         {"col": "col-md-4", "images": ["Braintree_010.jpg", "Braintree_039.jpg", "Braintree_037.jpg"]},
 
         {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_043.jpg", "Braintree_044.jpg"]},
-       
+
 
 
         {"col": "col-md-4", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
         {"col": "col-md-4", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
 
-        
+
 
 
 
