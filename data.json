@@ -75,9 +75,30 @@
         {"col": "col-md-6", "images": ["Braintree_001.jpg", "Braintree_002.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_003.jpg", "Braintree_004.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_005.jpg", "Braintree_006.jpg"]},
-        {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
+        
         {"col": "col-md-4", "images": ["Braintree_008.jpg", "Braintree_009.jpg", "Braintree_010.jpg"]},
-        {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]}
+
+        {"col": "col-md-4", "images": ["Braintree_031.jpg", "Braintree_032.jpg", "Braintree_034.jpg"]},
+        {"col": "col-md-4", "images": ["Braintree_035.jpg", "Braintree_037.jpg", "Braintree_038.jpg"]},
+        {"col": "col-md-4", "images": ["Braintree_039.jpg", "Braintree_040.jpg", "Braintree_042.jpg"]},
+
+
+
+        {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
+
+        
+
+        {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
+
+        {"col": "col-md-6", "images": ["Braintree_013.jpg", "Braintree_014.jpg", "Braintree_015.jpg", "Braintree_016.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_017.jpg", "Braintree_020.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_022.jpg", "Braintree_024.jpg", "Braintree_018.jpg", "Braintree_027.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg", "Braintree_029.jpg", "Braintree_028.jpg"]},
+       
+
+
+        {"col": "col-md-2", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
+        {"col": "col-md-2", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
 
 
     ]
