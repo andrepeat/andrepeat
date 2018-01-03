@@ -2,7 +2,7 @@
 {
     "slug": "twitter",
     "title": "Twitter",
-    "thumbnail": "Twitter_logo_circles.jpg",
+    "thumbnail": "Twitter_logo.jpg",
     "category": [
         "design", "logo"
     ],
@@ -28,7 +28,20 @@
         {"col": "col-md-3", "images": ["Twitter_logo_process_44.jpg", "Twitter_logo_process_45.jpg", "Twitter_logo_process_46.jpg", "Twitter_logo_process_47.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_48.jpg", "Twitter_logo_process_49.jpg", "Twitter_logo_process_50.jpg", "Twitter_logo_process_51.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_52.jpg", "Twitter_logo_process_53.jpg", "Twitter_logo_process_54.jpg", "Twitter_logo_process_55.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]}
+        {"col": "col-md-3", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]},
+
+
+
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_02.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_03.jpg", "Twitter_logo_sketch_04.jpg", "Twitter_logo_sketch_05.jpg", "Twitter_logo_sketch_06.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_07.jpg", "Twitter_logo_sketch_08.jpg", "Twitter_logo_sketch_09.jpg", "Twitter_logo_sketch_10.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_12.jpg", "Twitter_logo_sketch_13.jpg", "Twitter_logo_sketch_14.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_15.jpg", "Twitter_logo_sketch_16.jpg", "Twitter_logo_sketch_17.jpg", "Twitter_logo_sketch_18.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_19.jpg", "Twitter_logo_sketch_20.jpg", "Twitter_logo_sketch_21.jpg", "Twitter_logo_sketch_22.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_23.jpg", "Twitter_logo_sketch_24.jpg", "Twitter_logo_sketch_25.jpg", "Twitter_logo_sketch_26.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_27.jpg", "Twitter_logo_sketch_28.jpg", "Twitter_logo_sketch_29.jpg", "Twitter_logo_sketch_30.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_31.jpg", "Twitter_logo_sketch_32.jpg", "Twitter_logo_sketch_33.jpg", "Twitter_logo_sketch_34.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_35.jpg"]}
 
 
 
@@ -57,7 +70,7 @@
 {
     "slug": "braintree",
     "title": "Braintree",
-    "thumbnail": "Braintree_logo.jpg",
+    "thumbnail": "Braintree.jpg",
     "category": [
         "design"
     ],
@@ -94,8 +107,8 @@
        
 
 
-        {"col": "col-md-2", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
-        {"col": "col-md-2", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
+        {"col": "col-md-4", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
+        {"col": "col-md-4", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
 
         
 
@@ -120,11 +133,12 @@
         {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
         {"col": "col-md-12", "images": ["Harborside_logo.jpg"]},
 
-        {"col": "col-md-12", "images": ["Harborside_02.jpg"]},
+        
         {"col": "col-md-12", "images": ["Harborside_03.jpg"]},
 
         {"col": "col-md-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
-        {"col": "col-md-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]}
+        {"col": "col-md-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]},
+        {"col": "col-md-12", "images": ["Harborside_02.jpg"]}
 
 
 
@@ -164,7 +178,7 @@
         {"col": "col-md-12", "images": ["Anki_27.jpg"]},
         {"col": "col-md-12", "images": ["Anki_29.jpg"]},
         {"col": "col-md-12", "images": ["Anki_30.jpg"]},
-        {"col": "col-md-6", "images": ["Anki_31.jpg", "Anki_32.jpg"]},
+        
 
 
 
@@ -184,31 +198,45 @@
 },
 
 {
-    "slug": "polyera",
-    "title": "Polyera",
-    "thumbnail": "polyera.jpg",
+    "slug": "opticon",
+    "title": "Opticon",
+    "thumbnail": "Opticon_00.jpg",
     "category": [
-    "art"
+        "design"
     ],
-    "media": "Digital, video",
-    "date": "2017",
+    "media": "Digital",
+    "date": "2016",
     "context": "",
-    "materials": "mp3, mp4",
+    "materials": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        {"col": "col-md-12", "images": ["polyera_00.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_01.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_02.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_03.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_04.jpg"]}
+
+        {"col": "col-md-12", "images": ["Opticon_01.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon.jpg"]},
+
+        {"col": "col-md-12", "images": ["Opticon_13.gif"]},
+
+        {"col": "col-md-12", "images": ["Opticon_02.jpg"]},
+
+        {"col": "col-md-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
+        {"col": "col-md-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
+        {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
+
+
+
 
     ]
 },
 
+
+
+
 {
     "slug": "rdio",
     "title": "rdio",
-    "thumbnail": "RDIO.jpg",
+    "thumbnail": "RDIO_logo.jpg",
     "category": [
         "design"
     ],
@@ -233,34 +261,23 @@
 },
 
 {
-    "slug": "opticon",
-    "title": "Opticon",
-    "thumbnail": "Opticon_00.jpg",
+    "slug": "polyera",
+    "title": "Polyera",
+    "thumbnail": "polyera_0.jpg",
     "category": [
-        "design"
+    "art"
     ],
-    "media": "Digital",
-    "date": "2016",
+    "media": "Digital, video",
+    "date": "2017",
     "context": "",
-    "materials": "",
+    "materials": "mp3, mp4",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-
-        {"col": "col-md-12", "images": ["Opticon_01.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_00.jpg"]},
-
-        {"col": "col-md-12", "images": ["Opticon_13.gif"]},
-
-        {"col": "col-md-12", "images": ["Opticon_02.jpg"]},
-
-        {"col": "col-md-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
-        {"col": "col-md-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
-
-
-
+        {"col": "col-md-12", "images": ["polyera_00.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_01.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_02.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_03.jpg"]},
+        {"col": "col-md-12", "images": ["polyera_04.jpg"]}
 
     ]
 }
