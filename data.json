@@ -16,15 +16,20 @@
         {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
 
 
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_02.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_03.jpg", "Twitter_logo_sketch_04.jpg", "Twitter_logo_sketch_05.jpg", "Twitter_logo_sketch_06.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_07.jpg", "Twitter_logo_sketch_08.jpg", "Twitter_logo_sketch_09.jpg", "Twitter_logo_sketch_10.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_12.jpg", "Twitter_logo_sketch_13.jpg", "Twitter_logo_sketch_14.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_15.jpg", "Twitter_logo_sketch_16.jpg", "Twitter_logo_sketch_17.jpg", "Twitter_logo_sketch_18.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_19.jpg", "Twitter_logo_sketch_20.jpg", "Twitter_logo_sketch_21.jpg", "Twitter_logo_sketch_22.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_27.jpg", "Twitter_logo_sketch_28.jpg", "Twitter_logo_sketch_29.jpg", "Twitter_logo_sketch_30.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_31.jpg", "Twitter_logo_sketch_32.jpg", "Twitter_logo_sketch_33.jpg", "Twitter_logo_sketch_34.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_sketch_35.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_02.jpg", "Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_14.jpg", "Twitter_logo_sketch_15.jpg"]},
+        
+        
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_07.jpg", "Twitter_logo_sketch_12.jpg", "Twitter_logo_sketch_16.jpg", "Twitter_logo_sketch_09.jpg"]},
+
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_21.jpg", "Twitter_logo_sketch_28.jpg", "Twitter_logo_sketch_29.jpg", "Twitter_logo_sketch_30.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_05.jpg", "Twitter_logo_sketch_04.jpg", "Twitter_logo_sketch_03.jpg", "Twitter_logo_sketch_06.jpg"]},
+
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_17.jpg", "Twitter_logo_sketch_13.jpg", "Twitter_logo_sketch_10.jpg", "Twitter_logo_sketch_22.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_sketch_19.jpg", "Twitter_logo_sketch_20.jpg", "Twitter_logo_sketch_35.jpg", "Twitter_logo_sketch_33.jpg"]},
+        
+        
+        
 
 
 
@@ -33,7 +38,7 @@
         {"col": "col-md-3", "images": ["Twitter_logo_process_08.jpg", "Twitter_logo_process_09.jpg", "Twitter_logo_process_10.jpg", "Twitter_logo_process_11.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_12.jpg", "Twitter_logo_process_13.jpg", "Twitter_logo_process_14.jpg", "Twitter_logo_process_15.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_16.jpg", "Twitter_logo_process_17.jpg", "Twitter_logo_process_18.jpg", "Twitter_logo_process_19.jpg"]},
-        {"col": "col-md-3", "images": ["Twitter_logo_process_20.jpg", "Twitter_logo_process_21.jpg", "Twitter_logo_process_22.jpg", "Twitter_logo_process_23.jpg"]},
+        {"col": "col-md-3", "images": ["Twitter_logo_process_22.jpg", "Twitter_logo_process_21.jpg", "Twitter_logo_process_20.jpg", "Twitter_logo_process_23.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_24.jpg", "Twitter_logo_process_25.jpg", "Twitter_logo_process_26.jpg", "Twitter_logo_process_27.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_28.jpg", "Twitter_logo_process_29.jpg", "Twitter_logo_process_30.jpg", "Twitter_logo_process_31.jpg"]},
         {"col": "col-md-3", "images": ["Twitter_logo_process_32.jpg", "Twitter_logo_process_33.jpg", "Twitter_logo_process_34.jpg", "Twitter_logo_process_35.jpg"]},
@@ -76,9 +81,9 @@
         "design"
     ],
     "media": "Digital",
-    "date": "2014",
-    "context": "",
-    "materials": "",
+    "date": "2014 - in progress",
+    "context": "Braintree graphic identity design.",
+    "designed": "Logo, Braintree typface B_Mono, billboards, posters, enviromental graphics, special events, advertising spots",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
         {"col": "col-md-12", "images": ["Braintree_logo.jpg"]},
@@ -92,24 +97,25 @@
 
         {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
 
-        {"col": "col-md-6", "images": ["Braintree_013.jpg", "Braintree_015.jpg"]},
+        {"col": "col-md-12", "images": ["Braintree_013.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_022.jpg", "Braintree_017.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_014.jpg", "Braintree_020.jpg"]},
         {"col": "col-md-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg"]},
-        {"col": "col-md-6", "images": ["Braintree_029.jpg", "Braintree_028.jpg"]},
+        
 
 
 
         {"col": "col-md-4", "images": ["Braintree_009.jpg", "Braintree_031.jpg", "Braintree_032.jpg"]},
         {"col": "col-md-4", "images": ["Braintree_010.jpg", "Braintree_039.jpg", "Braintree_037.jpg"]},
 
-        {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
-        {"col": "col-md-6", "images": ["Braintree_043.jpg", "Braintree_044.jpg"]},
+        
 
 
 
         {"col": "col-md-4 bt-helper", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
-        {"col": "col-md-4 bt-helper", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]}
+        {"col": "col-md-4 bt-helper", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]},
+        {"col": "col-md-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
+        {"col": "col-md-6", "images": ["Braintree_043.jpg", "Braintree_044.jpg"]}
 
 
 
