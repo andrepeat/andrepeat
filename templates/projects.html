@@ -35,34 +35,37 @@
         </div>
     {% endfor %}
 
+{% endblock %}
+
+{% block scripts %}
     <script type="text/javascript">
-    window.onload = function() {
+        window.onload = function() {
 
-                // get the video
-        var video = document.querySelector('video');
-        // use the whole window and a *named function*
-        window.addEventListener('touchstart', function videoStart() {
-          video.play();
-          console.log('first touch');
-          // remove from the window and call the function we are removing
-          this.removeEventListener('touchstart', videoStart);
-        });
+            // get the video
+            var video = document.querySelector('video');
+            // use the whole window and a *named function*
+            window.addEventListener('touchstart', function videoStart() {
+              video.play();
+              console.log('first touch');
+              // remove from the window and call the function we are removing
+              this.removeEventListener('touchstart', videoStart);
+            });
 
-        const _rows = document.getElementsByClassName('project__row');
-        for (row of _rows) {
-            var all_p = row.querySelectorAll('p');
-            var maxx = -1;
-            for (p of all_p) {
-                var height = parseInt(getComputedStyle(p).height);
-                if (height > maxx) {
-                    maxx = height;
+            const _rows = document.getElementsByClassName('project__row');
+            for (row of _rows) {
+                var all_p = row.querySelectorAll('p');
+                var maxx = -1;
+                for (p of all_p) {
+                    var height = parseInt(getComputedStyle(p).height);
+                    if (height > maxx) {
+                        maxx = height;
+                    }
+                }
+                for (p of all_p) {
+                    p.style.height = maxx + 'px';
                 }
             }
-            for (p of all_p) {
-                p.style.height = maxx + 'px';
-            }
         }
-    }
-</script>
+    </script>
 
 {% endblock %}

@@ -118,6 +118,7 @@ footer {
 
 .project__image {
     padding: 30px 0px;
+    cursor: pointer;
 }
 
 

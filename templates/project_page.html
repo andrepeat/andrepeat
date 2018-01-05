@@ -2,6 +2,31 @@
 
 {% block title %}{{content.title}}{% endblock %}
 
+{% block head %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
+	<link rel="stylesheet" href="{{ url_for('static',filename='fonts/font-awesome/css/font-awesome.min.css') }}">
+	<style>
+		.mfp-bg {
+			background: #FFFFFF;
+		}
+		.mfp-arrow-right:before {
+			border-left: 0px;
+		}
+		.mfp-arrow-left:before {
+			border-right: 0px;
+		}
+		.mfp-arrow:before, .mfp-arrow:after {
+			content: none;
+		}
+		.mfp-counter, .mfp-close {
+			color: #808080;
+		}
+		.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
+			color: #808080;
+		}
+	</style>
+{% endblock %}
+
 {% block content %}
     <div class="spacer-top"> </div>
     <div class='row intro nav-info'>
@@ -25,9 +50,9 @@
                     <span class="headings">designed</span><br>
                     <span class="headings-content">{{ content.designed }}</span><br>
                     <br>
-                    <span class="headings">media</span><br>
-                    <span class="headings-content">{{ content.media }}</span><br>
-                    <br>
+                    <!-- <span class="headings">media</span><br> -->
+                    <!-- <span class="headings-content">{{ content.media }}</span><br> -->
+                    <!-- <br> -->
                 </div>
             </div>
         </div>
@@ -39,7 +64,8 @@
             {% if row.get('images', False) %}
                 {% for image in row['images'] %}
                     <div class="{{ row['col'] }}">
-                        <img class="card-img-top project__image" src="{{ url_for('static',filename='images/' + content.slug + '/' + image) }}" />
+                        {% set image_url = url_for('static',filename='images/' + content.slug + '/' + image) %}
+                        <img class="card-img-top project__image" src="{{ image_url }}" href="{{ image_url }}"/>
                     </div>
                 {% endfor %}
             {% elif row.get('text', False) %}
@@ -49,7 +75,7 @@
             {% elif row.get('videos', False) %}
                 {% for video in row['videos'] %}
                      <div class="{{ row['col'] }} text-center">
-                         <video id="video" playsinline loop muted autoplay preload">
+                         <video id="video" playsinline loop muted autoplay preload>
                             <source src="{{ url_for('static', filename='videos/' + video) }}" type="video/mp4">
                         </video>
                      </div>
@@ -59,8 +85,10 @@
     {% endfor %}
     <div class='spacer-page'> </div>
     <div class='spacer-page'> </div>
+{% endblock %}
 
-    <script type="text/javascript">
+{% block scripts %}
+	<script type="text/javascript">
         window.onload = function() {
             // toggle nike video's
             video = document.querySelector('.unmuted-video > #video');
@@ -69,5 +97,23 @@
         }
     </script>
 
-{% endblock %}
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
+	<script>
+		 $('img').magnificPopup({
+			//delegate: ':not(.isotope-hidden).item a',
+			type: 'image',
+			tLoading: 'Loading image #%curr%...',
+			//mainClass: 'mfp-img-mobile',
+			gallery: {
+				enabled: true,
+				navigateByImgClick: true,
+				preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+
+				arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="mfp-prevent-close fa fa-angle-%dir% fa-3x" aria-hidden="true"></i></button>', // markup of an arrow button
+				tCounter: '<span class="mfp-counter">%curr% of %total%</span>' // markup of counter
+			}
+			
+		});
+	</script>
+{% endblock %}
