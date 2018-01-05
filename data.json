@@ -283,12 +283,12 @@
     "title": "Polyera",
     "thumbnail": "polyera_0.jpg",
     "category": [
-    "art"
+    "design"
     ],
     "media": "Digital, video",
     "date": "2017",
-    "context": "",
-    "designed": "mp3, mp4",
+    "context": "Polyera graphic identity design.",
+    "designed": "Logo",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
         {"col": "col-md-12", "images": ["polyera_00.jpg"]},
