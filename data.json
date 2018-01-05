@@ -129,12 +129,12 @@
     "title": "Harborside",
     "thumbnail": "Harborside_00.jpg",
     "category": [
-        "art"
+        "design"
     ],
     "media": "Degital",
     "date": "2016",
-    "context": "Identity design",
-    "designed": "",
+    "context": "Harborside graphic identity design.",
+    "designed": "Logo, packaging, apparel, enviromental",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
         {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
@@ -145,6 +145,14 @@
 
         {"col": "col-md-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
         {"col": "col-md-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_10.jpg", "Harborside_11.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_12A.jpg", "Harborside_13.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_16.jpg", "Harborside_15.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_14.jpg", "Harborside_17.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_12.jpg", "Harborside_19.jpg"]},
+        {"col": "col-md-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]},
+
+
         {"col": "col-md-12", "images": ["Harborside_02.jpg"]}
 
 
