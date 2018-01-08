@@ -13,7 +13,12 @@
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
         {"col": "col-md-12", "images": ["Twitter_logo_circles.jpg"]},
+        {"col": "col-md-12", "images": ["Twitter_logo_MartinGrasser.jpg"]},
         {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
+
+        {"col": "col-md-3 col-3", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
+
+        {"col": "col-md-4 col-4 bt-helper", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
 
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
