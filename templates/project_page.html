@@ -78,7 +78,7 @@
             {% elif row.get('videos', False) %}
                 {% for video in row['videos'] %}
                      <div class="{{ row['col'] }} text-center">
-                         <video id="video" playsinline loop muted autoplay preload>
+                         <video id="video" class="project__image" playsinline loop muted autoplay preload>
                             <source src="{{ url_for('static', filename='videos/' + video) }}" type="video/mp4">
                         </video>
                      </div>
@@ -116,7 +116,7 @@
 				arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="mfp-prevent-close fa fa-angle-%dir% fa-3x" aria-hidden="true"></i></button>', // markup of an arrow button
 				tCounter: '<span class="mfp-counter">%curr% of %total%</span>' // markup of counter
 			}
-			
+
 		});
 	</script>
 {% endblock %}

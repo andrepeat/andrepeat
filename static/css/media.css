@@ -5,7 +5,7 @@
         display: none;
     }
 
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 100%;
     }
 
@@ -60,7 +60,7 @@
 }
 
 @media only screen and (min-width: 481px) and (max-width: 767px) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 450px;
     }
 
@@ -125,7 +125,7 @@
 /* iPads (portrait) ----------- */
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 896px;
         height: 504px;
     }
@@ -173,7 +173,7 @@
 }
 
 @media only screen and (min-width: 768px) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 700px;
     }
 
@@ -220,7 +220,7 @@
 }
 
 @media only screen and (min-width: 1025px) and (max-width: 1280px) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 896px;
         height: 504px;
     }
@@ -247,7 +247,7 @@
 /* Desktops and laptops ----------- */
 
 @media only screen and (min-width: 1281px) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 896px;
     }
 
@@ -300,8 +300,8 @@
 /* Large screens ----------- */
 
 @media only screen and (min-width: 1900px) {
-    #video, .image-lead > img {
+    .image-lead > img {
         width: 1280px;
-        height: 720px;
+        /*height: 720px;*/
     }
 }
