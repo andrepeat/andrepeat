@@ -16,8 +16,8 @@
         {"col": "col-md-12", "images": ["Twitter_logo_MartinGrasser.jpg"]},
         {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
 
-        {"col": "col-md-3 col-3", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
-        {"col": "col-md-4 col-4", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
+        
+        {"col": "col-md-6 col-6", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_02.jpg", "Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_14.jpg", "Twitter_logo_sketch_15.jpg"]},
