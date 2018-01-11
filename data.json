@@ -16,7 +16,7 @@
         {"col": "col-md-12", "images": ["Twitter_logo_MartinGrasser.jpg"]},
         {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
 
-        
+
         {"col": "col-md-6 col-6", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
@@ -271,7 +271,7 @@
 
         {"col": "col-md-12", "images": ["Jawbone_00.jpg"]},
 
-        {"col": "col-md-12 spray-books-helper", "videos": ["Jambox.m4v"]},
+        {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Jambox.m4v"]},
 
         {"col": "col-md-6 col-6", "images": ["Jawbone_01.jpg", "Jawbone_20.jpg"]},
 
@@ -299,7 +299,7 @@
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
 
-        
+
         {"col": "col-md-10 col-10", "images": ["kiva_00.jpg"]},
         {"col": "col-md-10 col-10", "images": ["kiva.jpg"]},
         {"col": "col-md-10 col-10", "images": ["kiva_01.jpg"]},
@@ -308,7 +308,7 @@
         {"col": "col-md-10", "images": ["kiva_05.jpg"]},
         {"col": "col-md-10", "images": ["kiva_06.jpg"]},
         {"col": "col-md-5 col-5", "images": ["kiva_08.jpg", "kiva_07.jpg"]}
-      
+
 
     ]
 }
