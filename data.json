@@ -125,13 +125,14 @@
         {"col": "col-md-6 col-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_10.jpg", "Harborside_11.jpg"]},
+
+        {"col": "col-md-6 col-6", "images": ["Harborside_22.gif", "Harborside_23.gif"]},
+
         {"col": "col-md-6 col-6", "images": ["Harborside_12A.jpg", "Harborside_13.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_16.jpg", "Harborside_15.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_14.jpg", "Harborside_17.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_12.jpg", "Harborside_19.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]},
-
-        {"col": "col-md-12", "images": ["Harborside_02.jpg"]}
+        {"col": "col-md-6 col-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]}
     ]
 },
 
