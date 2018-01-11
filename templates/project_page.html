@@ -4,30 +4,30 @@
 
 {% block head %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
-	<link rel="stylesheet" href="{{ url_for('static',filename='fonts/font-awesome/css/font-awesome.min.css') }}">
-	<style>
-		.mfp-bg {
-			background: #FFFFFF;
-		}
-		.mfp-arrow-right:before {
-			border-left: 0px;
-		}
-		.mfp-arrow-left:before {
-			border-right: 0px;
-		}
-		.mfp-arrow:before, .mfp-arrow:after {
-			content: none;
-		}
-		.mfp-counter, .mfp-close {
-			color: #808080;
-		}
-		.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
-			color: #808080;
-		}
-		.mfp-figure:after {
+    <link rel="stylesheet" href="{{ url_for('static',filename='fonts/font-awesome/css/font-awesome.min.css') }}">
+    <style>
+        .mfp-bg {
+            background: #FFFFFF;
+        }
+        .mfp-arrow-right:before {
+            border-left: 0px;
+        }
+        .mfp-arrow-left:before {
+            border-right: 0px;
+        }
+        .mfp-arrow:before, .mfp-arrow:after {
+            content: none;
+        }
+        .mfp-counter, .mfp-close {
+            color: #808080;
+        }
+        .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
+            color: #808080;
+        }
+        .mfp-figure:after {
             box-shadow: none;
         }
-	</style>
+    </style>
 {% endblock %}
 
 {% block content %}
@@ -91,7 +91,7 @@
 {% endblock %}
 
 {% block scripts %}
-	<script type="text/javascript">
+    <script type="text/javascript">
         window.onload = function() {
             // toggle nike video's
             video = document.querySelector('.unmuted-video > #video');
@@ -100,23 +100,23 @@
         }
     </script>
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
-	<script>
-		 $('img').magnificPopup({
-			//delegate: ':not(.isotope-hidden).item a',
-			type: 'image',
-			tLoading: 'Loading image #%curr%...',
-			//mainClass: 'mfp-img-mobile',
-			gallery: {
-				enabled: true,
-				navigateByImgClick: true,
-				preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+    <script>
+         $('img').magnificPopup({
+            //delegate: ':not(.isotope-hidden).item a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            //mainClass: 'mfp-img-mobile',
+            gallery: {
+                enabled: true,
+                navigateByImgClick: true,
+                preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
 
-				arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="mfp-prevent-close fa fa-angle-%dir% fa-3x" aria-hidden="true"></i></button>', // markup of an arrow button
-				tCounter: '<span class="mfp-counter">%curr% of %total%</span>' // markup of counter
-			}
+                arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"><i class="mfp-prevent-close fa fa-angle-%dir% fa-3x" aria-hidden="true"></i></button>', // markup of an arrow button
+                tCounter: '<span class="mfp-counter">%curr% of %total%</span>' // markup of counter
+            }
 
-		});
-	</script>
+        });
+    </script>
 {% endblock %}
