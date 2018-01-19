@@ -13,12 +13,14 @@
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
         {"col": "col-md-12", "images": ["Twitter_logo_circles.jpg"]},
+        {"col": "col-md-12", "images": ["Twitter_logo_MartinGrasser.jpg"]},
         {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
 
 
+        {"col": "col-md-6 col-6", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
+
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_02.jpg", "Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_14.jpg", "Twitter_logo_sketch_15.jpg"]},
-
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_07.jpg", "Twitter_logo_sketch_12.jpg", "Twitter_logo_sketch_16.jpg", "Twitter_logo_sketch_09.jpg"]},
 
@@ -27,11 +29,6 @@
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_17.jpg", "Twitter_logo_sketch_13.jpg", "Twitter_logo_sketch_10.jpg", "Twitter_logo_sketch_22.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_19.jpg", "Twitter_logo_sketch_20.jpg", "Twitter_logo_sketch_35.jpg", "Twitter_logo_sketch_33.jpg"]},
-
-
-
-
-
 
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_00.jpg", "Twitter_logo_process_01.jpg", "Twitter_logo_process_02.jpg", "Twitter_logo_process_03.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_04.jpg", "Twitter_logo_process_05.jpg", "Twitter_logo_process_06.jpg", "Twitter_logo_process_07.jpg"]},
@@ -48,10 +45,6 @@
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_48.jpg", "Twitter_logo_process_49.jpg", "Twitter_logo_process_50.jpg", "Twitter_logo_process_51.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_52.jpg", "Twitter_logo_process_53.jpg", "Twitter_logo_process_54.jpg", "Twitter_logo_process_55.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]}
-
-
-
-
     ]
 },
 
@@ -68,7 +61,6 @@
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-
         {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
     ]
 },
@@ -102,25 +94,13 @@
         {"col": "col-md-6 col-6", "images": ["Braintree_014.jpg", "Braintree_020.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg"]},
 
-
-
-
         {"col": "col-md-4 col-4", "images": ["Braintree_009.jpg", "Braintree_031.jpg", "Braintree_032.jpg"]},
         {"col": "col-md-4 col-4", "images": ["Braintree_010.jpg", "Braintree_039.jpg", "Braintree_037.jpg"]},
-
-
-
-
 
         {"col": "col-md-4 col-4 bt-helper", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
         {"col": "col-md-4 col-4 bt-helper", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]},
         {"col": "col-md-6 col-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Braintree_043.jpg", "Braintree_044.jpg"]}
-
-
-
-
-
     ]
 },
 
@@ -140,24 +120,19 @@
         {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
         {"col": "col-md-12", "images": ["Harborside_logo.jpg"]},
 
-
         {"col": "col-md-12", "images": ["Harborside_03.jpg"]},
 
         {"col": "col-md-6 col-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_10.jpg", "Harborside_11.jpg"]},
+
+        {"col": "col-md-6 col-6", "images": ["Harborside_22.gif", "Harborside_23.gif"]},
+
         {"col": "col-md-6 col-6", "images": ["Harborside_12A.jpg", "Harborside_13.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_16.jpg", "Harborside_15.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_14.jpg", "Harborside_17.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Harborside_12.jpg", "Harborside_19.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]},
-
-
-        {"col": "col-md-12", "images": ["Harborside_02.jpg"]}
-
-
-
-
+        {"col": "col-md-6 col-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]}
     ]
 },
 
@@ -178,8 +153,6 @@
 
         {"col": "col-md-12", "images": ["Anki_03.jpg"]},
 
-
-
         {"col": "col-md-6 col-6", "images": ["Anki_01.jpg", "Anki_02.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Anki_05.jpg", "Anki_06.jpg"]},
         {"col": "col-md-12", "images": ["Anki_04.jpg"]},
@@ -189,13 +162,9 @@
 
         {"col": "col-md-6 col-6", "images": ["Anki_10.jpg", "Anki_11.jpg"]},
 
-
         {"col": "col-md-12", "images": ["Anki_27.jpg"]},
         {"col": "col-md-12", "images": ["Anki_29.jpg"]},
         {"col": "col-md-12", "images": ["Anki_30.jpg"]},
-
-
-
 
         {"col": "col-md-12 spray-books-helper", "videos": ["anki_drive_logo.mp4"]},
         {"col": "col-md-6 col-6", "images": ["Anki_12.jpg", "Anki_13.jpg"]},
@@ -206,9 +175,6 @@
 
         {"col": "col-md-6 col-6", "images": ["Anki_18.jpg", "Anki_17.jpg"]},
         {"col": "col-md-6 col-6", "images": ["Anki_19.jpg", "Anki_20.jpg"]}
-
-
-
     ]
 },
 
@@ -225,8 +191,8 @@
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-
-        {"col": "col-md-12", "images": ["Opticon_01.jpg"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_001.mp4"]},
+        
         {"col": "col-md-12", "images": ["Opticon.jpg"]},
 
         {"col": "col-md-12", "images": ["Opticon_13.gif"]},
@@ -235,18 +201,14 @@
 
         {"col": "col-md-4 col-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_003.mp4"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_004.mp4"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_002.mp4"]},
         {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
-
-
-
-
     ]
 },
-
-
-
 
 {
     "slug": "rdio",
@@ -261,7 +223,6 @@
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-
         {"col": "col-md-12", "images": ["RDIO.jpg"]},
         {"col": "col-md-6 col-6", "images": ["RDIO_01.jpg", "RDIO_02.jpg"]},
         {"col": "col-md-6 col-6", "images": ["RDIO_03.jpg", "RDIO_04.jpg"]},
@@ -273,8 +234,6 @@
         {"col": "col-md-6 col-6", "images": ["RDIO_11.jpg", "RDIO_12.jpg"]},
         {"col": "col-md-6 col-6", "images": ["RDIO_13.jpg", "RDIO_14.jpg"]},
         {"col": "col-md-6 col-6", "images": ["RDIO_15.jpg", "RDIO_16.jpg"]}
-
-
     ]
 },
 
@@ -296,6 +255,64 @@
         {"col": "col-md-12", "images": ["polyera_02.jpg"]},
         {"col": "col-md-12", "images": ["polyera_03.jpg"]},
         {"col": "col-md-12", "images": ["polyera_04.jpg"]}
+
+    ]
+},
+
+{
+    "slug": "jawbone",
+    "title": "Jawbone",
+    "thumbnail": "Jawbone_00.jpg",
+    "category": [
+    "design"
+    ],
+    "media": "Digital, video",
+    "date": "2013",
+    "context": "Jambox speaker launch campaign for Jawbone.",
+    "designed": "Print, enviromental, web",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+
+        {"col": "col-md-12", "images": ["Jawbone_00.jpg"]},
+
+        {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Jambox.m4v"]},
+
+        {"col": "col-md-6 col-6", "images": ["Jawbone_01.jpg", "Jawbone_20.jpg"]},
+
+        {"col": "col-md-3 col-3", "images": ["Jawbone_06.jpg", "Jawbone_09.jpg", "Jawbone_03.jpg", "Jawbone_10.jpg"]},
+        {"col": "col-md-3 col-3", "images": ["Jawbone_07.jpg", "Jawbone_08.jpg", "Jawbone_04.jpg", "Jawbone_05.jpg"]},
+        {"col": "col-md-3 col-3", "images": ["Jawbone_11.jpg", "Jawbone_14.jpg", "Jawbone_18.jpg", "Jawbone_13.jpg"]},
+        {"col": "col-md-3 col-3", "images": ["Jawbone_17.jpg", "Jawbone_16.jpg", "Jawbone_21.jpg", "Jawbone_12.jpg"]},
+        {"col": "col-md-6 col-6", "images": ["Jawbone_23.jpg", "Jawbone_22.jpg"]},
+        {"col": "col-md-6 col-6", "images": ["Jawbone_19.jpg", "Jawbone_24.jpg"]},
+
+        {"col": "col-md-3 col-3", "images": ["Jawbone_27.jpg", "Jawbone_28.jpg", "Jawbone_29.jpg", "Jawbone_30.jpg"]}
+    ]
+},
+{
+    "slug": "kiva",
+    "title": "Kiva",
+    "thumbnail": "kiva.jpg",
+    "category": [
+    "design"
+    ],
+    "media": "Digital, video",
+    "date": "2014",
+    "context": "Kiva graphic identity design. Collaboration with Marian Chiao and the Kiva design team.",
+    "designed": "Logo,website, app, print",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content":[
+
+
+        {"col": "col-md-10 col-10", "images": ["kiva_00.jpg"]},
+        {"col": "col-md-10 col-10", "images": ["kiva.jpg"]},
+        {"col": "col-md-10 col-10", "images": ["kiva_01.jpg"]},
+        {"col": "col-md-10 col-10", "images": ["kiva_02.jpg"]},
+        {"col": "col-md-5 col-5", "images": ["kiva_04.jpg", "kiva_03.jpg"]},
+        {"col": "col-md-10", "images": ["kiva_05.jpg"]},
+        {"col": "col-md-10", "images": ["kiva_06.jpg"]},
+        {"col": "col-md-5 col-5", "images": ["kiva_08.jpg", "kiva_07.jpg"]}
+
 
     ]
 }
