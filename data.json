@@ -1,319 +1,856 @@
-[
-{
+[{
     "slug": "twitter",
     "title": "Twitter",
     "thumbnail": "Twitter_logo.jpg",
-    "category": [
-        "design", "logo"
-    ],
+    "category": ["design", "logo"],
     "media": "Digital",
     "date": "2012",
     "context": "Twitter logo re-design.",
     "designed": "Logo",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12", "images": ["Twitter_logo_circles.jpg"]},
-        {"col": "col-md-12", "images": ["Twitter_logo_MartinGrasser.jpg"]},
-        {"col": "col-md-12", "images": ["Twitter_logo_process.jpg"]},
-
-
-        {"col": "col-md-6 col-6", "videos": ["Twitter_logo_MartinGrasser.mp4", "Twitter_logo_MartingGrasser_02.mp4"]},
-
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_0.jpg", "Twitter_logo_sketch_00.jpg", "Twitter_logo_sketch_01.jpg", "Twitter_logo_sketch_08.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_02.jpg", "Twitter_logo_sketch_11.jpg", "Twitter_logo_sketch_14.jpg", "Twitter_logo_sketch_15.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_07.jpg", "Twitter_logo_sketch_12.jpg", "Twitter_logo_sketch_16.jpg", "Twitter_logo_sketch_09.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_21.jpg", "Twitter_logo_sketch_28.jpg", "Twitter_logo_sketch_29.jpg", "Twitter_logo_sketch_30.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_05.jpg", "Twitter_logo_sketch_04.jpg", "Twitter_logo_sketch_03.jpg", "Twitter_logo_sketch_06.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_17.jpg", "Twitter_logo_sketch_13.jpg", "Twitter_logo_sketch_10.jpg", "Twitter_logo_sketch_22.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_sketch_19.jpg", "Twitter_logo_sketch_20.jpg", "Twitter_logo_sketch_35.jpg", "Twitter_logo_sketch_33.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_00.jpg", "Twitter_logo_process_01.jpg", "Twitter_logo_process_02.jpg", "Twitter_logo_process_03.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_04.jpg", "Twitter_logo_process_05.jpg", "Twitter_logo_process_06.jpg", "Twitter_logo_process_07.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_08.jpg", "Twitter_logo_process_09.jpg", "Twitter_logo_process_10.jpg", "Twitter_logo_process_11.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_12.jpg", "Twitter_logo_process_13.jpg", "Twitter_logo_process_14.jpg", "Twitter_logo_process_15.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_16.jpg", "Twitter_logo_process_17.jpg", "Twitter_logo_process_18.jpg", "Twitter_logo_process_19.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_22.jpg", "Twitter_logo_process_21.jpg", "Twitter_logo_process_20.jpg", "Twitter_logo_process_23.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_24.jpg", "Twitter_logo_process_25.jpg", "Twitter_logo_process_26.jpg", "Twitter_logo_process_27.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_28.jpg", "Twitter_logo_process_29.jpg", "Twitter_logo_process_30.jpg", "Twitter_logo_process_31.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_32.jpg", "Twitter_logo_process_33.jpg", "Twitter_logo_process_34.jpg", "Twitter_logo_process_35.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_36.jpg", "Twitter_logo_process_37.jpg", "Twitter_logo_process_38.jpg", "Twitter_logo_process_39.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_40.jpg", "Twitter_logo_process_41.jpg", "Twitter_logo_process_42.jpg", "Twitter_logo_process_43.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_44.jpg", "Twitter_logo_process_45.jpg", "Twitter_logo_process_46.jpg", "Twitter_logo_process_47.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_48.jpg", "Twitter_logo_process_49.jpg", "Twitter_logo_process_50.jpg", "Twitter_logo_process_51.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_52.jpg", "Twitter_logo_process_53.jpg", "Twitter_logo_process_54.jpg", "Twitter_logo_process_55.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Twitter_logo_process_56.jpg", "Twitter_logo_process_57.jpg", "Twitter_logo_process_58.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["Twitter_logo_circles.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Twitter_logo_MartinGrasser.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Twitter_logo_process.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "videos": [
+            ["Twitter_logo_MartinGrasser.mp4", "alt text"],
+            ["Twitter_logo_MartingGrasser_02.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_0.jpg", "alt text"],
+            ["Twitter_logo_sketch_00.jpg", "alt text"],
+            ["Twitter_logo_sketch_01.jpg", "alt text"],
+            ["Twitter_logo_sketch_08.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_02.jpg", "alt text"],
+            ["Twitter_logo_sketch_11.jpg", "alt text"],
+            ["Twitter_logo_sketch_14.jpg", "alt text"],
+            ["Twitter_logo_sketch_15.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_07.jpg", "alt text"],
+            ["Twitter_logo_sketch_12.jpg", "alt text"],
+            ["Twitter_logo_sketch_16.jpg", "alt text"],
+            ["Twitter_logo_sketch_09.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_21.jpg", "alt text"],
+            ["Twitter_logo_sketch_28.jpg", "alt text"],
+            ["Twitter_logo_sketch_29.jpg", "alt text"],
+            ["Twitter_logo_sketch_30.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_05.jpg", "alt text"],
+            ["Twitter_logo_sketch_04.jpg", "alt text"],
+            ["Twitter_logo_sketch_03.jpg", "alt text"],
+            ["Twitter_logo_sketch_06.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_17.jpg", "alt text"],
+            ["Twitter_logo_sketch_13.jpg", "alt text"],
+            ["Twitter_logo_sketch_10.jpg", "alt text"],
+            ["Twitter_logo_sketch_22.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_sketch_19.jpg", "alt text"],
+            ["Twitter_logo_sketch_20.jpg", "alt text"],
+            ["Twitter_logo_sketch_35.jpg", "alt text"],
+            ["Twitter_logo_sketch_33.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_00.jpg", "alt text"],
+            ["Twitter_logo_process_01.jpg", "alt text"],
+            ["Twitter_logo_process_02.jpg", "alt text"],
+            ["Twitter_logo_process_03.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_04.jpg", "alt text"],
+            ["Twitter_logo_process_05.jpg", "alt text"],
+            ["Twitter_logo_process_06.jpg", "alt text"],
+            ["Twitter_logo_process_07.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_08.jpg", "alt text"],
+            ["Twitter_logo_process_09.jpg", "alt text"],
+            ["Twitter_logo_process_10.jpg", "alt text"],
+            ["Twitter_logo_process_11.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_12.jpg", "alt text"],
+            ["Twitter_logo_process_13.jpg", "alt text"],
+            ["Twitter_logo_process_14.jpg", "alt text"],
+            ["Twitter_logo_process_15.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_16.jpg", "alt text"],
+            ["Twitter_logo_process_17.jpg", "alt text"],
+            ["Twitter_logo_process_18.jpg", "alt text"],
+            ["Twitter_logo_process_19.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_22.jpg", "alt text"],
+            ["Twitter_logo_process_21.jpg", "alt text"],
+            ["Twitter_logo_process_20.jpg", "alt text"],
+            ["Twitter_logo_process_23.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_24.jpg", "alt text"],
+            ["Twitter_logo_process_25.jpg", "alt text"],
+            ["Twitter_logo_process_26.jpg", "alt text"],
+            ["Twitter_logo_process_27.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_28.jpg", "alt text"],
+            ["Twitter_logo_process_29.jpg", "alt text"],
+            ["Twitter_logo_process_30.jpg", "alt text"],
+            ["Twitter_logo_process_31.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_32.jpg", "alt text"],
+            ["Twitter_logo_process_33.jpg", "alt text"],
+            ["Twitter_logo_process_34.jpg", "alt text"],
+            ["Twitter_logo_process_35.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_36.jpg", "alt text"],
+            ["Twitter_logo_process_37.jpg", "alt text"],
+            ["Twitter_logo_process_38.jpg", "alt text"],
+            ["Twitter_logo_process_39.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_40.jpg", "alt text"],
+            ["Twitter_logo_process_41.jpg", "alt text"],
+            ["Twitter_logo_process_42.jpg", "alt text"],
+            ["Twitter_logo_process_43.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_44.jpg", "alt text"],
+            ["Twitter_logo_process_45.jpg", "alt text"],
+            ["Twitter_logo_process_46.jpg", "alt text"],
+            ["Twitter_logo_process_47.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_48.jpg", "alt text"],
+            ["Twitter_logo_process_49.jpg", "alt text"],
+            ["Twitter_logo_process_50.jpg", "alt text"],
+            ["Twitter_logo_process_51.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_52.jpg", "alt text"],
+            ["Twitter_logo_process_53.jpg", "alt text"],
+            ["Twitter_logo_process_54.jpg", "alt text"],
+            ["Twitter_logo_process_55.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Twitter_logo_process_56.jpg", "alt text"],
+            ["Twitter_logo_process_57.jpg", "alt text"],
+            ["Twitter_logo_process_58.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "nike",
     "title": "Nike | Welcome to season 15",
     "thumbnail": "Nike_Labron.jpg",
-    "category": [
-        "art"
-    ],
+    "category": ["art"],
     "media": "Digital",
     "date": "2017",
     "context": "",
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Nike | Welcome To Season 15 (1080p).mp4"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12 unmuted-video spray-books-helper",
+        "videos": [
+            ["Nike | Welcome To Season 15 (1080p).mp4", "alt text"]
+        ]
+    }]
+}, {
     "slug": "braintree",
     "title": "Braintree",
     "thumbnail": "Braintree.jpg",
-    "category": [
-        "design"
-    ],
+    "category": ["design"],
     "media": "Digital",
     "date": "2014 - in progress",
     "context": "Braintree graphic identity design.",
     "designed": "Logo, Braintree typface B_Mono, billboards, posters, enviromental graphics, special events, advertising spots",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12", "images": ["Braintree_logo.jpg"]},
-        {"col": "col-md-12", "images": ["Braintree_BT_typeface-01.jpg"]},
-        {"col": "col-md-4 col-4", "images": ["Braintree_BT_typeface-02.jpg", "Braintree_BT_typeface-03.jpg", "Braintree_BT_typeface-04.jpg"]},
-        {"col": "col-md-12", "images": ["Braintree_city.jpg"]},
-        {"col": "col-md-12", "images": ["Braintree_beer.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_001.jpg", "Braintree_002.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_003.jpg", "Braintree_004.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_005.jpg", "Braintree_006.jpg"]},
-
-        {"col": "col-md-12", "images": ["Braintree_007.jpg"]},
-
-        {"col": "col-md-12", "images": ["Braintree_013.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_022.jpg", "Braintree_017.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_014.jpg", "Braintree_020.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_025.jpg", "Braintree_026.jpg"]},
-
-        {"col": "col-md-4 col-4", "images": ["Braintree_009.jpg", "Braintree_031.jpg", "Braintree_032.jpg"]},
-        {"col": "col-md-4 col-4", "images": ["Braintree_010.jpg", "Braintree_039.jpg", "Braintree_037.jpg"]},
-
-        {"col": "col-md-4 col-4 bt-helper", "videos": ["Braintree_1.mp4", "Braintree_2.mp4", "Braintree_3.mp4"]},
-        {"col": "col-md-4 col-4 bt-helper", "videos": ["Braintree_4.mp4", "Braintree_5.mp4", "Braintree_6.mp4"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_011.jpg", "Braintree_012.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Braintree_043.jpg", "Braintree_044.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_logo.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_BT_typeface-01.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4",
+        "images": [
+            ["Braintree_BT_typeface-02.jpg", "alt text"],
+            ["Braintree_BT_typeface-03.jpg", "alt text"],
+            ["Braintree_BT_typeface-04.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_city.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_beer.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_001.jpg", "alt text"],
+            ["Braintree_002.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_003.jpg", "alt text"],
+            ["Braintree_004.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_005.jpg", "alt text"],
+            ["Braintree_006.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_007.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Braintree_013.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_022.jpg", "alt text"],
+            ["Braintree_017.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_014.jpg", "alt text"],
+            ["Braintree_020.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_025.jpg", "alt text"],
+            ["Braintree_026.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4",
+        "images": [
+            ["Braintree_009.jpg", "alt text"],
+            ["Braintree_031.jpg", "alt text"],
+            ["Braintree_032.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4",
+        "images": [
+            ["Braintree_010.jpg", "alt text"],
+            ["Braintree_039.jpg", "alt text"],
+            ["Braintree_037.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4 bt-helper",
+        "videos": [
+            ["Braintree_1.mp4", "alt text"],
+            ["Braintree_2.mp4", "alt text"],
+            ["Braintree_3.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4 bt-helper",
+        "videos": [
+            ["Braintree_4.mp4", "alt text"],
+            ["Braintree_5.mp4", "alt text"],
+            ["Braintree_6.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_011.jpg", "alt text"],
+            ["Braintree_012.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Braintree_043.jpg", "alt text"],
+            ["Braintree_044.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "harborside",
     "title": "Harborside",
     "thumbnail": "Harborside_00.jpg",
-    "category": [
-        "design"
-    ],
+    "category": ["design"],
     "media": "Degital",
     "date": "2016",
     "context": "Harborside graphic identity design.",
     "designed": "Logo, packaging, apparel, enviromental",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12", "images": ["Harborside_00.jpg"]},
-        {"col": "col-md-12", "images": ["Harborside_logo.jpg"]},
-
-        {"col": "col-md-12", "images": ["Harborside_03.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Harborside_04.jpg", "Harborside_05.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_06.jpg", "Harborside_07.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_10.jpg", "Harborside_11.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Harborside_22.gif", "Harborside_23.gif"]},
-
-        {"col": "col-md-6 col-6", "images": ["Harborside_12A.jpg", "Harborside_13.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_16.jpg", "Harborside_15.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_14.jpg", "Harborside_17.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_12.jpg", "Harborside_19.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Harborside_20.jpg", "Harborside_21.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["Harborside_00.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Harborside_logo.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Harborside_03.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_04.jpg", "alt text"],
+            ["Harborside_05.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_06.jpg", "alt text"],
+            ["Harborside_07.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_10.jpg", "alt text"],
+            ["Harborside_11.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_22.gif", "alt text"],
+            ["Harborside_23.gif", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_12A.jpg", "alt text"],
+            ["Harborside_13.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_16.jpg", "alt text"],
+            ["Harborside_15.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_14.jpg", "alt text"],
+            ["Harborside_17.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_12.jpg", "alt text"],
+            ["Harborside_19.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Harborside_20.jpg", "alt text"],
+            ["Harborside_21.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "anki",
     "title": "Anki",
     "thumbnail": "Anki.jpg",
-    "category": [
-        "art", "books", "video"
-    ],
+    "category": ["art", "books", "video"],
     "media": "Digital",
     "date": "2015",
     "context": "",
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12 spray-books-helper", "videos": ["anki_logo_.mp4"]},
-
-        {"col": "col-md-12", "images": ["Anki_03.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Anki_01.jpg", "Anki_02.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_05.jpg", "Anki_06.jpg"]},
-        {"col": "col-md-12", "images": ["Anki_04.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_07.jpg", "Anki_08.jpg"]},
-        {"col": "col-md-12", "images": ["Anki_21.jpg"]},
-        {"col": "col-md-12", "images": ["Anki_09.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Anki_10.jpg", "Anki_11.jpg"]},
-
-        {"col": "col-md-12", "images": ["Anki_27.jpg"]},
-        {"col": "col-md-12", "images": ["Anki_29.jpg"]},
-        {"col": "col-md-12", "images": ["Anki_30.jpg"]},
-
-        {"col": "col-md-12 spray-books-helper", "videos": ["anki_drive_logo.mp4"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_12.jpg", "Anki_13.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_15.jpg", "Anki_16.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_24.jpg", "Anki_25.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Anki_22.jpg", "Anki_26.jpg"]},
-
-        {"col": "col-md-6 col-6", "images": ["Anki_18.jpg", "Anki_17.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Anki_19.jpg", "Anki_20.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["anki_logo_.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_03.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_01.jpg", "alt text"],
+            ["Anki_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_05.jpg", "alt text"],
+            ["Anki_06.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_04.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_07.jpg", "alt text"],
+            ["Anki_08.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_21.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_09.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_10.jpg", "alt text"],
+            ["Anki_11.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_27.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_29.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Anki_30.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["anki_drive_logo.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_12.jpg", "alt text"],
+            ["Anki_13.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_15.jpg", "alt text"],
+            ["Anki_16.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_24.jpg", "alt text"],
+            ["Anki_25.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_22.jpg", "alt text"],
+            ["Anki_26.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_18.jpg", "alt text"],
+            ["Anki_17.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Anki_19.jpg", "alt text"],
+            ["Anki_20.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "opticon",
     "title": "Opticon",
     "thumbnail": "Opticon_00.jpg",
-    "category": [
-        "design"
-    ],
+    "category": ["design"],
     "media": "Digital",
     "date": "2016",
     "context": "",
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_001.mp4"]},
-        
-        {"col": "col-md-12", "images": ["Opticon.jpg"]},
-
-        {"col": "col-md-12", "images": ["Opticon_13.gif"]},
-
-        {"col": "col-md-12", "images": ["Opticon_02.jpg"]},
-
-        {"col": "col-md-4 col-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
-        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_003.mp4"]},
-        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_004.mp4"]},
-        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_002.mp4"]},
-        {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
-        {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["Opticon_001.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon_13.gif", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-4 col-4",
+        "images": [
+            ["Opticon_04.jpg", "alt text"],
+            ["Opticon_05.jpg", "alt text"],
+            ["Opticon_06.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Opticon_07.jpg", "alt text"],
+            ["Opticon_08.jpg", "alt text"],
+            ["Opticon_09.jpg", "alt text"],
+            ["Opticon_10.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["Opticon_003.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["Opticon_004.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12 spray-books-helper",
+        "videos": [
+            ["Opticon_002.mp4", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon_11.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon_12.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["Opticon_14.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "rdio",
     "title": "rdio",
     "thumbnail": "RDIO_logo.jpg",
-    "category": [
-        "design"
-    ],
+    "category": ["design"],
     "media": "Digital",
     "date": "2012",
     "context": "",
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12", "images": ["RDIO.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_01.jpg", "RDIO_02.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_03.jpg", "RDIO_04.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_06.jpg", "RDIO_07.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_08.jpg", "RDIO_09.jpg"]},
-
-        {"col": "col-md-12", "images": ["RDIO_10.jpg"]},
-        {"col": "col-md-12", "images": ["RDIO_17.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_11.jpg", "RDIO_12.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_13.jpg", "RDIO_14.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["RDIO_15.jpg", "RDIO_16.jpg"]}
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["RDIO.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_01.jpg", "alt text"],
+            ["RDIO_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_03.jpg", "alt text"],
+            ["RDIO_04.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_06.jpg", "alt text"],
+            ["RDIO_07.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_08.jpg", "alt text"],
+            ["RDIO_09.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["RDIO_10.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["RDIO_17.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_11.jpg", "alt text"],
+            ["RDIO_12.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_13.jpg", "alt text"],
+            ["RDIO_14.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["RDIO_15.jpg", "alt text"],
+            ["RDIO_16.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "polyera",
     "title": "Polyera",
     "thumbnail": "polyera_0.jpg",
-    "category": [
-    "design"
-    ],
+    "category": ["design"],
     "media": "Digital, video",
     "date": "2017",
     "context": "Polyera graphic identity design.",
     "designed": "Logo",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-        {"col": "col-md-12", "images": ["polyera_00.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_01.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_02.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_03.jpg"]},
-        {"col": "col-md-12", "images": ["polyera_04.jpg"]}
-
-    ]
-},
-
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["polyera_00.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["polyera_01.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["polyera_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["polyera_03.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12",
+        "images": [
+            ["polyera_04.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "jawbone",
     "title": "Jawbone",
     "thumbnail": "Jawbone_00.jpg",
-    "category": [
-    "design"
-    ],
+    "category": ["design"],
     "media": "Digital, video",
     "date": "2013",
     "context": "Jambox speaker launch campaign for Jawbone.",
     "designed": "Print, enviromental, web",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-
-        {"col": "col-md-12", "images": ["Jawbone_00.jpg"]},
-
-        {"col": "col-md-12 unmuted-video spray-books-helper", "videos": ["Jambox.m4v"]},
-
-        {"col": "col-md-6 col-6", "images": ["Jawbone_01.jpg", "Jawbone_20.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Jawbone_06.jpg", "Jawbone_09.jpg", "Jawbone_03.jpg", "Jawbone_10.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Jawbone_07.jpg", "Jawbone_08.jpg", "Jawbone_04.jpg", "Jawbone_05.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Jawbone_11.jpg", "Jawbone_14.jpg", "Jawbone_18.jpg", "Jawbone_13.jpg"]},
-        {"col": "col-md-3 col-3", "images": ["Jawbone_17.jpg", "Jawbone_16.jpg", "Jawbone_21.jpg", "Jawbone_12.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Jawbone_23.jpg", "Jawbone_22.jpg"]},
-        {"col": "col-md-6 col-6", "images": ["Jawbone_19.jpg", "Jawbone_24.jpg"]},
-
-        {"col": "col-md-3 col-3", "images": ["Jawbone_27.jpg", "Jawbone_28.jpg", "Jawbone_29.jpg", "Jawbone_30.jpg"]}
-    ]
-},
-{
+    "content": [{
+        "col": "col-md-12",
+        "images": [
+            ["Jawbone_00.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-12 unmuted-video spray-books-helper",
+        "videos": [
+            ["Jambox.m4v", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Jawbone_01.jpg", "alt text"],
+            ["Jawbone_20.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Jawbone_06.jpg", "alt text"],
+            ["Jawbone_09.jpg", "alt text"],
+            ["Jawbone_03.jpg", "alt text"],
+            ["Jawbone_10.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Jawbone_07.jpg", "alt text"],
+            ["Jawbone_08.jpg", "alt text"],
+            ["Jawbone_04.jpg", "alt text"],
+            ["Jawbone_05.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Jawbone_11.jpg", "alt text"],
+            ["Jawbone_14.jpg", "alt text"],
+            ["Jawbone_18.jpg", "alt text"],
+            ["Jawbone_13.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Jawbone_17.jpg", "alt text"],
+            ["Jawbone_16.jpg", "alt text"],
+            ["Jawbone_21.jpg", "alt text"],
+            ["Jawbone_12.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Jawbone_23.jpg", "alt text"],
+            ["Jawbone_22.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-6 col-6",
+        "images": [
+            ["Jawbone_19.jpg", "alt text"],
+            ["Jawbone_24.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Jawbone_27.jpg", "alt text"],
+            ["Jawbone_28.jpg", "alt text"],
+            ["Jawbone_29.jpg", "alt text"],
+            ["Jawbone_30.jpg", "alt text"]
+        ]
+    }]
+}, {
     "slug": "kiva",
     "title": "Kiva",
     "thumbnail": "kiva.jpg",
-    "category": [
-    "design"
-    ],
+    "category": ["design"],
     "media": "Digital, video",
     "date": "2014",
     "context": "Kiva graphic identity design. Collaboration with Marian Chiao and the Kiva design team.",
     "designed": "Logo,website, app, print",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
-    "content":[
-
-
-        {"col": "col-md-10 col-10", "images": ["kiva_00.jpg"]},
-        {"col": "col-md-10 col-10", "images": ["kiva.jpg"]},
-        {"col": "col-md-10 col-10", "images": ["kiva_01.jpg"]},
-        {"col": "col-md-10 col-10", "images": ["kiva_02.jpg"]},
-        {"col": "col-md-5 col-5", "images": ["kiva_04.jpg", "kiva_03.jpg"]},
-        {"col": "col-md-10", "images": ["kiva_05.jpg"]},
-        {"col": "col-md-10", "images": ["kiva_06.jpg"]},
-        {"col": "col-md-5 col-5", "images": ["kiva_08.jpg", "kiva_07.jpg"]}
-
-
-    ]
-}
-]
+    "content": [{
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva_00.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva_01.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_04.jpg", "alt text"],
+            ["kiva_03.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10",
+        "images": [
+            ["kiva_05.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10",
+        "images": [
+            ["kiva_06.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_08.jpg", "alt text"],
+            ["kiva_07.jpg", "alt text"]
+        ]
+    }]
+}]
