@@ -67,8 +67,8 @@
             {% if row.get('images', False) %}
                 {% for image in row['images'] %}
                     <div class="{{ row['col'] }}">
-                        {% set image_url = url_for('static',filename='images/' + content.slug + '/' + image) %}
-                        <img class="card-img-top project__image" src="{{ image_url }}" href="{{ image_url }}"/>
+                        {% set image_url = url_for('static',filename='images/' + content.slug + '/' + image[0]) %}
+                        <img class="card-img-top project__image" src="{{ image_url }}" href="{{ image_url }}" alt="{{ image[1] }}"/>
                     </div>
                 {% endfor %}
             {% elif row.get('text', False) %}
@@ -79,7 +79,7 @@
                 {% for video in row['videos'] %}
                      <div class="{{ row['col'] }} text-center">
                          <video id="video" playsinline loop muted autoplay preload>
-                            <source src="{{ url_for('static', filename='videos/' + video) }}" type="video/mp4">
+                            <source src="{{ url_for('static', filename='videos/' + video[0]) }}" type="video/mp4">
                         </video>
                      </div>
                 {% endfor %}
