@@ -191,7 +191,8 @@
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content":[
-        {"col": "col-md-12", "images": ["Opticon_01.jpg"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_001.mp4"]},
+        
         {"col": "col-md-12", "images": ["Opticon.jpg"]},
 
         {"col": "col-md-12", "images": ["Opticon_13.gif"]},
@@ -200,6 +201,9 @@
 
         {"col": "col-md-4 col-4", "images": ["Opticon_04.jpg", "Opticon_05.jpg", "Opticon_06.jpg"]},
         {"col": "col-md-3 col-3", "images": ["Opticon_07.jpg", "Opticon_08.jpg", "Opticon_09.jpg", "Opticon_10.jpg"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_003.mp4"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_004.mp4"]},
+        {"col": "col-md-12 spray-books-helper", "videos": ["Opticon_002.mp4"]},
         {"col": "col-md-12", "images": ["Opticon_11.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_12.jpg"]},
         {"col": "col-md-12", "images": ["Opticon_14.jpg"]}
