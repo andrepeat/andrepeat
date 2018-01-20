@@ -828,15 +828,66 @@
     }, {
         "col": "col-md-10 col-10",
         "images": [
-            ["kiva_02.jpg", "alt text"]
+            
+            ["Bill_Clinton_Kiva.jpg", "alt text"]
         ]
     }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_27.jpg", "alt text"],
+            ["kiva_26.jpg", "alt text"]
+        ]
+    },
+    {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_18.jpg", "alt text"],
+            ["kiva_22.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_24.jpg", "alt text"],
+            ["kiva_25.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_21.jpg", "alt text"],
+            ["kiva_13.jpg", "alt text"]
+        ]
+    },
+    {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_23.jpg", "alt text"],
+            ["kiva_19.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_20.jpg", "alt text"],
+            ["kiva_14.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_08.jpg", "alt text"],
+            ["kiva_07.jpg", "alt text"]
+        ]
+    },{
         "col": "col-md-5 col-5",
         "images": [
             ["kiva_04.jpg", "alt text"],
             ["kiva_03.jpg", "alt text"]
         ]
-    }, {
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_09.jpg", "alt text"],
+            ["kiva_16.jpg", "alt text"]
+        ]
+    },{
         "col": "col-md-10",
         "images": [
             ["kiva_05.jpg", "alt text"]
@@ -845,12 +896,6 @@
         "col": "col-md-10",
         "images": [
             ["kiva_06.jpg", "alt text"]
-        ]
-    }, {
-        "col": "col-md-5 col-5",
-        "images": [
-            ["kiva_08.jpg", "alt text"],
-            ["kiva_07.jpg", "alt text"]
         ]
     }]
 }]
