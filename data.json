@@ -552,34 +552,17 @@
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12",
+        "col": "col-md-8",
         "videos": [
             ["Opticon_001.mp4", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
         "images": [
             ["Opticon.jpg", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
-        "images": [
-            ["Opticon_13.gif", "alt text"]
-        ]
-    }, {
-        "col": "col-md-12",
-        "images": [
-            ["Opticon_02.jpg", "alt text"]
-        ]
-    }, {
-        "col": "col-md-4 col-4",
-        "images": [
-            ["Opticon_04.jpg", "alt text"],
-            ["Opticon_05.jpg", "alt text"],
-            ["Opticon_06.jpg", "alt text"]
-        ]
-    }, {
-        "col": "col-md-3 col-3",
+        "col": "col-md-2 col-2",
         "images": [
             ["Opticon_07.jpg", "alt text"],
             ["Opticon_08.jpg", "alt text"],
@@ -587,32 +570,58 @@
             ["Opticon_10.jpg", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
+        "images": [
+            ["Opticon_13.gif", "alt text"]
+        ]
+    }, {
+        "col": "col-md-8",
+        "images": [
+            ["Opticon_02.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-2 col-2",
+        "images": [
+            ["Opticon_04.jpg", "alt text"],
+            ["Opticon_05.jpg", "alt text"],
+            ["Opticon_06.jpg", "alt text"],
+            ["Opticon_06A.jpg", "alt text"]
+        ]
+    },  {
+        "col": "col-md-8",
         "videos": [
             ["Opticon_003.mp4", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
         "videos": [
             ["Opticon_004.mp4", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
         "videos": [
             ["Opticon_002.mp4", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-2 col-2",
+        "images": [
+            ["Opticon_15.jpg", "alt text"],
+            ["Opticon_16.jpg", "alt text"],
+            ["Opticon_17.jpg", "alt text"],
+            ["Opticon_18.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-8",
         "images": [
             ["Opticon_11.jpg", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
         "images": [
             ["Opticon_12.jpg", "alt text"]
         ]
     }, {
-        "col": "col-md-12",
+        "col": "col-md-8",
         "images": [
             ["Opticon_14.jpg", "alt text"]
         ]
