@@ -30,6 +30,22 @@
     src: url("../fonts/bt_webfonts/bt_mono_heavy-webfont.woff2") format("woff2"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.woff") format("woff"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.ttf") format("truetype"), url("../fonts/bt_webfonts/bt_mono_heavy-webfont.svg#bt_mono_heavy-webfont") format("svg")
 }
 
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 img {
     max-width: 100%;
