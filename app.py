@@ -29,8 +29,8 @@ def setup():
 def home():
 
     # split data list into rows containing <cols> items
-    cols = 4
-    content = [data[i:min(i+4, len(data))] for i in range(0, len(data), cols)]
+    cols = 3
+    content = [data[i:min(i+3, len(data))] for i in range(0, len(data), cols)]
     return render_template('projects.html', content=content)
 
 
