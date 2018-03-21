@@ -1,4 +1,5 @@
 [{
+    "enable": "true",
     "slug": "twitter",
     "title": "Twitter",
     "thumbnail": "Twitter_logo.jpg",
@@ -205,6 +206,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "nike",
     "title": "Nike | Welcome to season 15",
     "thumbnail": "Nike_Labron.jpg",
@@ -221,6 +223,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "braintree",
     "title": "Braintree",
     "thumbnail": "Braintree.jpg",
@@ -345,6 +348,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "harborside",
     "title": "Harborside",
     "thumbnail": "Harborside_00.jpg",
@@ -425,6 +429,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "anki",
     "title": "Anki",
     "thumbnail": "Anki.jpg",
@@ -541,6 +546,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "opticon",
     "title": "Opticon",
     "thumbnail": "Opticon_00.jpg",
@@ -626,6 +632,7 @@
         ]
     }]
 }, {
+    "enable": "true",
     "slug": "rdio",
     "title": "rdio",
     "thumbnail": "RDIO_logo.jpg",
@@ -694,6 +701,7 @@
         ]
     }]
 }, {
+    "enable": "false",
     "slug": "polyera",
     "title": "Polyera",
     "thumbnail": "polyera_0.jpg",
@@ -875,6 +883,7 @@
         ]
     }]
 }, {
+    "enable": "false",
     "slug": "jawbone",
     "title": "Jawbone",
     "thumbnail": "Jawbone_00.jpg",
@@ -954,6 +963,7 @@
         ]
     }]
 }, {
+    "enable": "false",
     "slug": "kiva",
     "title": "Kiva",
     "thumbnail": "kiva.jpg",

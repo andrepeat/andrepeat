@@ -18,7 +18,7 @@ app = Flask(__name__)
 def setup():
     global data, options
     with open('data.json') as f:
-        data = json.load(f)
+        data = [x for x in json.load(f) if x['enable'] == 'true']
 
     options = {'slugs': set()}
     for item in data:
@@ -44,18 +44,20 @@ def project(slug):
     project = [x for x in data if x['slug'] == slug][0]
     return render_template('project_page.html', content=project)
 
+
 @app.route('/info')
 def info():
     return render_template('info.html')
+
 
 @app.route('/robots.txt')
 def static_from_root():
     return send_from_directory(app.static_folder, request.path[1:])
 
-# Setup
+
+# gunicorn issue
 setup()
 
 if __name__ == '__main__':
-#    setup()
     port = int(os.environ.get('PORT', 8000))
     app.run(debug=True, host='0.0.0.0', port=port)
