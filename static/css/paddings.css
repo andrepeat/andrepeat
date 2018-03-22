@@ -18,12 +18,12 @@
 /* Video */
 #video {
     padding-top: 30px;
-    padding-bottom: 30px;
+    /*padding-bottom: 30px;*/
     /* No left or right padding as video is center aligned */
 }
 
 .cover-video {
-    padding: 50px 80px;
+    /*padding: 50px 80px;*/
 }
 
 /* Video title */

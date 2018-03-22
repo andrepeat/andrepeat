@@ -79,6 +79,10 @@ body {
     padding: 100px;
 }
 
+.spacer-xs {
+    padding: 10px;
+}
+
 .intro,
 .intro-body {
     padding: 0px 30px;
@@ -109,7 +113,8 @@ body a:active {
 .nav-bar a:hover,
 .nav-bar a:active {
     text-decoration: none;
-    color: #808080;
+    font-size: 24px;
+    color: #000000;
 }
 
 .project__container {
@@ -179,5 +184,9 @@ footer {
 }
 
 .cover-video #video {
-    width: 75%;
+    width: 70%;
+}
+
+.cover-video .video-text {
+    padding: 0px;
 }
