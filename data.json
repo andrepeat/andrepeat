@@ -2,7 +2,7 @@
     "enable": "true",
     "slug": "nike-go",
     "title": "Nike | Choose Go",
-    "thumbnail": "NikeGo.jpg",
+    "thumbnail": "NikeGo.jpg    ",
     "category": ["art"],
     "media": "Digital",
     "date": "2017",
@@ -12,7 +12,10 @@
     "content": [{
         "col": "col-md-12 unmuted-video spray-books-helper",
         "videos": [
-            ["nike-choose-go.mp4", "alt text"]
+            ["REACT_1.mp4", "alt text"],
+            ["REACT_2.mp4", "alt text"],
+            ["REACT_3.mp4", "alt text"],
+            ["REACT_4.mp4", "alt text"]
         ]
     }]
 },{
