@@ -1,12 +1,29 @@
 [{
     "enable": "true",
+    "slug": "nike",
+    "title": "Nike React| Choose Go",
+    "thumbnail": "Nike_Labron.jpg",
+    "category": ["art"],
+    "media": "Digital",
+    "date": "2017",
+    "context": "Nike came to us with a really great, simple brief. “The world feels stuck in a rut. We believe the running can get us all moving again.” The idea was right there. Add a dozen great athletes, cameos by Sadie Sink and Bill Nye, a bad-ass Bollywood remix and the inimitable directorial genius of Mr. Edgar Wright and suddenly you've got yourself a running commercial. Made in collaboration with great folks at Must Be Something.",
+    "designed": "",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content": [{
+        "col": "col-md-12 unmuted-video spray-books-helper",
+        "videos": [
+            ["Nike React  Choose Go 60 (360p).mp4", "alt text"]
+        ]
+    }]
+},{
+    "enable": "true",
     "slug": "twitter",
     "title": "Twitter",
     "thumbnail": "Twitter_logo.jpg",
     "category": ["design", "logo"],
     "media": "Digital",
     "date": "2012",
-    "context": "Twitter logo re-design.",
+    "context": "Twitter logo re-design. Design in collaboration with Todd Waterbury, Angy Che at West studios. ",
     "designed": "Logo",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
@@ -355,7 +372,7 @@
     "category": ["design"],
     "media": "Degital",
     "date": "2016",
-    "context": "Harborside graphic identity design.",
+    "context": "The transformation of cannabis from subculture to culture. Harborside graphic identity design.",
     "designed": "Logo, packaging, apparel, enviromental",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
@@ -435,9 +452,9 @@
     "thumbnail": "Anki.jpg",
     "category": ["art", "books", "video"],
     "media": "Digital",
-    "date": "2015",
-    "context": "",
-    "designed": "",
+    "date": "2013",
+    "context": "Identity design.",
+    "designed": "Logo, packaging creative direction, Anki and Anki drive typefaces.",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12 spray-books-helper",
@@ -639,7 +656,7 @@
     "category": ["design"],
     "media": "Digital",
     "date": "2012",
-    "context": "",
+    "context": "We were asked to create the most beautiful thing we could and design a campaign that would be known for it’s beauty and stood out in each city.",
     "designed": "",
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
@@ -965,6 +982,106 @@
 }, {
     "enable": "false",
     "slug": "kiva",
+    "title": "Kiva",
+    "thumbnail": "kiva.jpg",
+    "category": ["design"],
+    "media": "Digital, video",
+    "date": "2014",
+    "context": "Kiva graphic identity design. Collaboration with Marian Chiao and the Kiva design team.",
+    "designed": "Logo,website, app, print",
+    "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
+    "content": [{
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva_00.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            ["kiva_01.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10 col-10",
+        "images": [
+            
+            ["Bill_Clinton_Kiva.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_27.jpg", "alt text"],
+            ["kiva_26.jpg", "alt text"]
+        ]
+    },
+    {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_18.jpg", "alt text"],
+            ["kiva_22.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_24.jpg", "alt text"],
+            ["kiva_25.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_21.jpg", "alt text"],
+            ["kiva_13.jpg", "alt text"]
+        ]
+    },
+    {
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_23.jpg", "alt text"],
+            ["kiva_19.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_20.jpg", "alt text"],
+            ["kiva_14.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_08.jpg", "alt text"],
+            ["kiva_07.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_04.jpg", "alt text"],
+            ["kiva_03.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-5 col-5",
+        "images": [
+            ["kiva_09.jpg", "alt text"],
+            ["kiva_16.jpg", "alt text"]
+        ]
+    },{
+        "col": "col-md-10",
+        "images": [
+            ["kiva_05.jpg", "alt text"]
+        ]
+    }, {
+        "col": "col-md-10",
+        "images": [
+            ["kiva_06.jpg", "alt text"]
+        ]
+    }]
+},
+{
+    "enable": "false",
+    "slug": "flat-color",
     "title": "Kiva",
     "thumbnail": "kiva.jpg",
     "category": ["design"],
