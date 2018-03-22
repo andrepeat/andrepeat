@@ -1,7 +1,7 @@
 [{
     "enable": "true",
     "slug": "nike",
-    "title": "Nike React| Choose Go",
+    "title": "Nike | Choose Go",
     "thumbnail": "Nike_Labron.jpg",
     "category": ["art"],
     "media": "Digital",
@@ -12,7 +12,7 @@
     "content": [{
         "col": "col-md-12 unmuted-video spray-books-helper",
         "videos": [
-            ["Nike React  Choose Go 60 (360p).mp4", "alt text"]
+            ["nike-choose-go.mp4", "alt text"]
         ]
     }]
 },{
