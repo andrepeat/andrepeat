@@ -1,8 +1,8 @@
 [{
     "enable": "true",
-    "slug": "nike",
+    "slug": "nike-go",
     "title": "Nike | Choose Go",
-    "thumbnail": "Nike_Labron.jpg",
+    "thumbnail": "NikeGo.png",
     "category": ["art"],
     "media": "Digital",
     "date": "2017",
