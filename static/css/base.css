@@ -177,3 +177,7 @@ footer {
 #video {
     width: 100%
 }
+
+.cover-video #video {
+    width: 75%;
+}
