@@ -2,7 +2,7 @@
     "enable": "true",
     "slug": "nike-go",
     "title": "Nike | Choose Go",
-    "thumbnail": "NikeGo.jpg    ",
+    "thumbnail": "NikeGo.jpg",
     "category": ["art"],
     "media": "Digital",
     "date": "2017",
@@ -899,7 +899,7 @@
         "images": [
             ["polyera_03.jpg", "alt text"],
             ["polyera_04.jpg", "alt text"]
-        
+
         ]
     }]
 }, {
@@ -1011,7 +1011,7 @@
     }, {
         "col": "col-md-10 col-10",
         "images": [
-            
+
             ["Bill_Clinton_Kiva.jpg", "alt text"]
         ]
     }, {
@@ -1111,7 +1111,7 @@
     }, {
         "col": "col-md-10 col-10",
         "images": [
-            
+
             ["Bill_Clinton_Kiva.jpg", "alt text"]
         ]
     }, {
