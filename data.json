@@ -239,7 +239,7 @@
 
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 spray-books-helper",
+        "col": "col-md-12 video-pause spray-books-helper",
         "videos": [
             ["Nike | Welcome To Season 15 (1080p).mp4", "alt text"]
         ]
