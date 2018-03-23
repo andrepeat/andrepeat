@@ -10,12 +10,12 @@
     
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 unmuted-video spray-books-helper",
+        "col": "col-md-12 video-pause spray-books-helper",
         "videos": [
-            ["REACT_1.mp4", "alt text"],
-            ["REACT_2.mp4", "alt text"],
-            ["REACT_3.mp4", "alt text"],
-            ["REACT_4.mp4", "alt text"]
+            ["REACT_1.mp4", "alt text", "Nike Epic React | Choose Go!"],
+            ["REACT_2.mp4", "alt text", "Nike Epic React | Choose Go! | :60 cut"],
+            ["REACT_3.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut | Trailer"],
+            ["REACT_4.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Trailer"]
         ]
     }]
 },{
@@ -237,7 +237,7 @@
     
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 unmuted-video spray-books-helper",
+        "col": "col-md-12 spray-books-helper",
         "videos": [
             ["Nike | Welcome To Season 15 (1080p).mp4", "alt text"]
         ]
