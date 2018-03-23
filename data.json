@@ -7,14 +7,14 @@
     "media": "Digital",
     "date": "2017",
     "context": "Nike came to us with a really great, simple brief. “The world feels stuck in a rut. We believe the running can get us all moving again.” The idea was right there. Add a dozen great athletes, cameos by Sadie Sink and Bill Nye, a bad-ass Bollywood remix and the inimitable directorial genius of Mr. Edgar Wright and suddenly you've got yourself a running commercial. Made in collaboration with great folks at Must Be Something.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 video-pause spray-books-helper",
+        "col": "col-md-12 video-pause no-loop spray-books-helper",
         "videos": [
             ["REACT_1.mp4", "alt text", "Nike Epic React | Choose Go!"],
-            ["REACT_2.mp4", "alt text", "Nike Epic React | Choose Go! | :60 cut"],
-            ["REACT_3.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut | Trailer"],
+            ["REACT_2.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut"],
+            ["REACT_3.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Trailer"],
             ["REACT_4.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Trailer"]
         ]
     }]
@@ -27,7 +27,7 @@
     "media": "Digital",
     "date": "2012",
     "context": "Twitter logo re-design. Design in collaboration with Todd Waterbury, Angy Che at West studios. ",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -234,7 +234,7 @@
     "media": "Digital",
     "date": "2017",
     "context": "“Welcome to Season 15” is a short-and-sweet story of how personal determination can change the face of the game. King James has been crushing the off-season and now he’s back to take his rightful crown with that mix of skill and will that only he can bring. Get ready or get out of the way. We made this work in collaboration with Must Be Something, Blue Chalk, the wonderful folks at Nike,  and of course, Idris Elba, who provides the rather dark VO.  Hope you enjoy it!",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12 spray-books-helper",
@@ -251,7 +251,7 @@
     "media": "Digital",
     "date": "2014 - in progress",
     "context": "Braintree graphic identity design.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -376,7 +376,7 @@
     "media": "Degital",
     "date": "2016",
     "context": "The transformation of cannabis from subculture to culture. Harborside graphic identity design.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -457,10 +457,10 @@
     "media": "Digital",
     "date": "2013",
     "context": "Graphic identity design. Logo, packaging creative direction, Anki and Anki drive typefaces.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 spray-books-helper",
+        "col": "col-md-12 video-muted spray-books-helper",
         "videos": [
             ["anki_logo_.mp4", "alt text"]
         ]
@@ -574,7 +574,7 @@
     "media": "Digital",
     "date": "2016",
     "context": "",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-8",
@@ -660,7 +660,7 @@
     "media": "Digital",
     "date": "2012",
     "context": "We were asked to create the most beautiful thing we could and design a campaign that would be known for it’s beauty and stood out in each city.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -729,7 +729,7 @@
     "media": "Digital, video",
     "date": "2017",
     "context": "Polyera graphic identity design.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -911,7 +911,7 @@
     "media": "Digital, video",
     "date": "2013",
     "context": "Jambox speaker launch campaign for Jawbone.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-12",
@@ -991,7 +991,7 @@
     "media": "Digital, video",
     "date": "2014",
     "context": "Kiva graphic identity design. Collaboration with Marian Chiao and the Kiva design team.",
-    
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-10 col-10",
@@ -1091,7 +1091,7 @@
     "media": "Digital, video",
     "date": "2014",
     "context": "Kiva graphic identity design. Collaboration with Marian Chiao and the Kiva design team.",
-  
+
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
         "col": "col-md-10 col-10",

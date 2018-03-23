@@ -1,6 +1,27 @@
 /* Smartphones (portrait and landscape) ----------- */
 
 @media only screen and (min-width: 100px) and (max-width: 480px) {
+
+    .nav-bar a:link,
+    .nav-bar a:visited,
+    .nav-bar a:hover,
+    .nav-bar a:active {
+        font-size: 14px;
+    }
+
+    .spacer-xs {
+        padding: 30px;
+    }
+
+    .cover-video #video {
+        width: 82%;
+    }
+
+    .project__container {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
     .thumbnail-text {
         display: none;
     }
@@ -20,7 +41,7 @@
     }
 
     .spacer {
-        padding: 58px;
+        padding: 30px;
     }
 
     .spacer-page {
@@ -32,7 +53,7 @@
     }
 
     .intro {
-        padding: 0px;
+        padding: 15px;
     }
 
     footer {
@@ -60,6 +81,14 @@
 }
 
 @media only screen and (min-width: 481px) and (max-width: 767px) {
+
+    .nav-bar a:link,
+    .nav-bar a:visited,
+    .nav-bar a:hover,
+    .nav-bar a:active {
+        font-size: 18px;
+    }
+
     .image-lead > img {
         width: 450px;
     }

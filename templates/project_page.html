@@ -82,7 +82,11 @@
             {% elif row.get('videos', False) %}
                 {% for video in row['videos'] %}
                      <div class="{{ row['col'] }} text-center">
-                         <video id="video" playsinline loop preload controls {% if 'video-pause' not in row['col'] %}autoplay{% endif %}>
+                         <video id="video" playsinline webkit-playsinline preload controls
+                             {% if 'video-pause' not in row['col'] %}autoplay{% endif %}
+                             {% if 'video-muted' in row['col'] %}muted{% endif %}
+                             {% if 'no-loop' not in row['col'] %}loop{% endif %}
+                         >
                             <source src="{{ url_for('static', filename='videos/' + video[0]) }}" type="video/mp4">
                         </video>
 
