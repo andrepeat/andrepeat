@@ -19,6 +19,36 @@
             ["REACT_5.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social"],
             ["REACT_6.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social"]
         ]
+
+        }, {
+        "col": "col-md-3 col-3",
+        "images": [
+            ["Nike_Go_00.jpg", "Some of our favorite stills."],
+            ["Nike_Go_03.jpg", ""],
+            ["Nike_Go_01.jpg", ""],
+            ["Nike_Go_02b.jpg", ""],
+            ["Nike_Go_02.jpg", ""],
+            ["Nike_Go_02a.jpg", ""],
+            
+            ["Nike_Go_03b.jpg", ""],
+            ["Nike_Go_04.jpg", ""],
+            ["Nike_Go_05.jpg", ""],
+            ["Nike_Go_06.jpg", ""],
+            
+            ["Nike_Go_07.jpg", ""],
+            ["Nike_Go_08.jpg", ""],
+            ["Nike_Go_08b.jpg", ""],
+            ["Nike_Go_09.jpg", ""],
+            ["Nike_Go_10.jpg", ""], 
+            ["Nike_Go_11.jpg", ""],
+            ["Nike_Go_12.jpg", ""],
+            ["Nike_Go_13.jpg", ""],
+            ["Nike_Go_14.jpg", ""],
+            ["Nike_Go_15.jpg", ""],
+            ["Nike_Go_16.jpg", ""] 
+
+        ]
+    
     }]
 },{
     "enable": "true",
