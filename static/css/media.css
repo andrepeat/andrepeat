@@ -175,6 +175,10 @@
 }
 
 @media only screen and (min-width: 768px) {
+    .intro-body {
+        padding: 0px 200px;
+    }
+
     .image-lead > img {
         width: 700px;
     }
