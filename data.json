@@ -492,7 +492,7 @@
 
     "content-width": "col-xl-7 col-lg-7 col-md-12 col-sm-12",
     "content": [{
-        "col": "col-md-12 video-muted spray-books-helper",
+        "col": "col-md-12 video-pause no-loop spray-books-helper",
         "videos": [
             ["anki_logo_.mp4", "alt text"]
         ]
@@ -556,7 +556,7 @@
             ["Anki_30.jpg", "alt text"]
         ]
     }, {
-        "col": "col-md-12 spray-books-helper",
+        "col": "col-md-12 video-pause no-loop spray-books-helper",
         "videos": [
             ["anki_drive_logo.mp4", "alt text"]
         ]
