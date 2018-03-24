@@ -12,12 +12,12 @@
     "content": [{
         "col": "col-md-12 video-pause no-loop spray-books-helper",
         "videos": [
-            ["REACT_1.mp4", "alt text", "Nike Epic React | Choose Go!"],
-            ["REACT_2.mp4", "alt text", "Nike Epic React | Choose Go! | :45 cut | Trailer"],
-            ["REACT_3.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut | Trailer"],
-            ["REACT_4.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut"],
-            ["REACT_5.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social"],
-            ["REACT_6.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social"]
+            ["REACT_1.mp4", "alt text", "Nike Epic React | Choose Go!", "poster1.png"],
+            ["REACT_2.mp4", "alt text", "Nike Epic React | Choose Go! | :45 cut | Trailer", "poster2.png"],
+            ["REACT_3.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut | Trailer", "poster3.png"],
+            ["REACT_4.mp4", "alt text", "Nike Epic React | Choose Go! | :30 cut", "poster4.png"],
+            ["REACT_5.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social", "poster5.png"],
+            ["REACT_6.mp4", "alt text", "Nike Epic React | Choose Go! | :06 cut | Social", "poster6.png"]
         ]
 
         }, {
