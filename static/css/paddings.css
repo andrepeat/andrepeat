@@ -13,6 +13,14 @@
     padding-top: 30px; /* Push 30px down from MG */
 }
 
+.pull-left {
+    padding-right: 0px;
+}
+
+.pull-right {
+    padding-left: 0px;
+}
+
 /* --------------i------- Video related padding --------------------------- */
 
 /* Video */
