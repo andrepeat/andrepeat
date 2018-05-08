@@ -598,7 +598,7 @@
         ]
     }]
 }, {
-    "enable": "true",
+    "enable": "false",
     "slug": "opticon",
     "title": "Opticon",
     "thumbnail": "Opticon_00.jpg",
