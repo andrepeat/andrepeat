@@ -54,6 +54,9 @@ def info():
 def static_from_root():
     return send_from_directory(app.static_folder, request.path[1:])
 
+@app.route('/new')
+def main():
+    return render_template('new.html')
 
 # gunicorn issue
 setup()

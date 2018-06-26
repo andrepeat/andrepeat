@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}And Repeat{% endblock %}
+{% block head %}
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/new.css') }}?v=0.0.1" media>
+{% endblock %}
+{% block content %}
+    <div class="container-fluid new-intro">
+        <div class="row">
+            <div class="col-12">
+                We are a multidisciplinary design <span class="color-blue-dark">studio</span> making work in our Bay Area studio and with <span class="color-red">collaborators</span> around the world. We utilize our deep experience in <span class="color-green-light">typography</span>, <span class="color-pink">graphic design</span>, <span class="color-yellow">illustration</span>, and <span class="color-blue-light">film</span> to build <span class="color-cyan"></span>systems that are appropriate, beautiful, and hardworking.
+            </div>
+        </div>
+        <div class="row item-list">
+            <div class="col-12 font-bold">What we do</div>
+            <br><br>
+            <div class="col-6 col-md-2 item-list-left">
+                <ul>
+                    <li><span class="color-orange-light">Identity</span></li>
+                    <li><span class="color-orange-dark">Illustration</span></li>
+                    <li><span class="color-red">Packaging</span></li>
+                    <li><span class="color-pink">Typeface</span></li>
+                    <li><span class="color-violet-light">Print</span></li>
+                    <li><span class="color-violet-dark">Editorial</span></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md-2 offset-md-6 item-list-right">
+                <ul>
+                    <li><span class="color-blue-dark">Apparel</span></li>
+                    <li><span class="color-blue-light">Film</span></li>
+                    <li><span class="color-cyan">Animation</span></li>
+                    <li><span class="color-green-dark">Installation</span></li>
+                    <li><span class="color-green-light">Product</span></li>
+                    <li><span class="color-yellow">Environmental</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+{% endblock %}

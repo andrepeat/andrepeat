@@ -1,0 +1,95 @@
+@font-face {
+    font-family: AGNextMedium;
+    font-weight: bold;
+    src: url("../fonts/ag_fonts/AGNextMedium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: AGNextRegular;
+    font-weight: normal;
+    src: url("../fonts/ag_fonts/AGNextRegular.otf") format("opentype");
+}
+
+body {
+    font-family: AGNextRegular;
+}
+
+.new-intro {
+    padding-left: 30px;
+    padding-right: 30px;
+
+    font-size: 30px;
+    color: black;
+}
+
+.item-list {
+    padding-top: 100px;
+}
+
+.item-list ul {
+    list-style-type: none;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+
+/*COLORS*/
+
+.color-yellow {
+    color: #EFE03D;
+}
+
+.color-green-light {
+    color: #93DB47;
+}
+
+.color-green-dark {
+    color: #69D178;
+}
+
+.color-cyan {
+    color: #30B0BB;
+}
+
+.color-blue-light {
+    color: #318AD6;
+}
+
+.color-blue-dark {
+    color: #6173C5;
+}
+
+.color-violet-dark {
+    color: #7562A6;
+}
+
+.color-violet-light {
+    color: #8B6799;
+}
+
+.color-pink {
+    color: #CF6A7A;
+}
+
+.color-red {
+    color: #F16963;
+}
+
+.color-orange-dark {
+    color: #F98D00;
+}
+
+.color-orange-light {
+    color: #FAC847;
+}
+
+.item-list {
+    background: url("../images/others/bag.png") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
